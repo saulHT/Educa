@@ -1,0 +1,95 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Educa</title>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/flickity/1.0.0/flickity.css'><link rel="stylesheet" href="~/css/HistoriaIndexStyle.css">
+  <script src="https://unpkg.com/akar-icons-fonts"></script>
+  <link rel="shortcut icon" href="~/Images/Home/LogoIconEduca.png">
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="book-store">
+
+    <div class="header">
+      
+      <div class="header-title">Historias <span>Sencillas</span></div>
+      <div class="profile">
+        <div class="user-profile">
+          <img src="@ViewBag.Avatar" alt="" class="user-img">
+        </div>
+      </div>
+    </div>
+
+    <div class="book-slide">
+      <div class="book js-flickity" data-flickity-options='{ "wrapAround": true }'>
+
+                @foreach (var item in ViewBag.Libros)
+                {
+                   <div class="book-cell">
+                      <div class="book-img">
+                        <img src="@item.Libros.LinkImgLibro" alt="" class="book-photo">
+                      </div>
+                      <div class="book-content">
+                        <div class="book-title">@item.Libros.TituloLibro</div>
+                        <div class="book-author">@item.Libros.Autor</div>
+                        <div class="rate">
+                          <span class="book-voters">@item.EstadoUsuarioLibro</span>
+                        </div>
+                        <div class="book-sum">@item.Libros.DescripcionLibro </div>
+                        <div class="book-see @item.Libros.Color"><a href="@item.Libros.LinkPaginaLibro">Empezar</a></div>
+                      </div>
+                   </div> 
+                }    
+      </div>
+
+    </div>
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+      <div class="book-cards">
+        <div class="second-slider">
+          <div class="rocket">
+            <div class="rocket-body">
+              <div class="body"></div>
+              <div class="fin fin-left"></div>
+              <div class="fin fin-right"></div>
+              <div class="window"></div>
+            </div>
+            <div class="exhaust-flame"></div>
+            <ul class="exhaust-fumes">
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+            </ul>
+            <ul class="star">
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+            </ul>
+          </div>
+          
+        </div>
+      </div> 
+    
+</div>
+<a href="/home/subtemas?tema=2" class="btn-flotante"><i class="ai-arrow-left"></i></a>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/flickity/1.0.0/flickity.pkgd.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+</body>
+</html>

@@ -1,0 +1,224 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educa</title>
+    <link rel="stylesheet" href="~/css/Leccion1Ej3Style.css">
+    <link rel="shortcut icon" href="~/Images/Home/LogoIconEduca.png">
+</head>
+<body>
+    <div class="content">
+        <div id="title" class="title">
+            <div class="title-t">
+                <div class="card">
+                    <p class="title1">3°</p>
+                    <p class="title2">Ejercicio</p>
+                    <img class="svg" src="~/Images/Home/LogoBlack250x150.png" width="105" height="55" alt="">
+                </div>
+            </div>
+            <div class="title-t2">Arrastra el número a la casilla correcta</div>   
+            <div class="loader"></div>           
+        </div>
+        <div id="success-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face">
+              <div class="eye"></div>
+              <div class="eye right2"></div>
+              <div class="mouth happy"></div>
+            </div>
+            <div class="shadow scale"></div>
+            <div class="message"><h1 class="alert">Bien hecho!</h1><p>Puntos: 5</p></div>
+            <button class="button-box" onclick="Next()"><h1 class="green">Continuar</h1></button>
+        </div>
+        <div id="error-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face2">
+                <div class="eye"></div>
+                <div class="eye right2"></div>
+                <div class="mouth sad"></div>
+            </div>
+            <div class="shadow move"></div>
+            <div class="message"><h1 class="alert">Oh no, te confundiste.</h1><p>Puntos: 0</p></div>
+            <button class="button-box" onclick="Next()"><h1 class="red">Continuar</h1></button>
+        </div>
+        <div id="info-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face">
+              <div class="eye"></div>
+              <div class="eye right2"></div>
+              <div class="mouth happy"></div>
+            </div>
+            <div class="shadow scale"></div>
+            <div class="message"><h1 class="alert">Ejercicio 3</div>
+            <button class="button-box" onclick="Inicio()"><h1 class="black">Empezar</h1></button>
+        </div>
+        <div id="container" class="container">
+            <div id="container-1" class="container-1">
+                <div class="item1">
+                    <div class="img">
+                        <img src="~/Images/Leccion/Leccion1/ceroB.png" width="50" height="50" draggable="true" ondragstart="drag(event)" id="cero">
+                    </div>
+                    <div class="img-2">
+                        <img  alt="0" src="~/Images/Leccion/Leccion1/unoB.png" width="50" height="50" draggable="true" ondragstart="drag(event)" id="uno">
+                    </div>
+                </div>
+                <div class="item2">
+                    <div class="img">
+                        <img src="~/Images/Leccion/Leccion1/dosB.png" width="50" height="50" draggable="true" ondragstart="drag(event)" id="dos">
+                    </div>
+                    <div class="img-2">
+                        <img  alt="0" src="~/Images/Leccion/Leccion1/tresB.png" width="50" height="50" draggable="true" ondragstart="drag(event)" id="tres">
+                    </div>
+                </div>
+                <div class="item3">
+                    <div class="img">
+                        <img src="~/Images/Leccion/Leccion1/cuatroB.png" width="50" height="50" draggable="true" ondragstart="drag(event)" id="cuatro">
+                    </div>
+                    <div class="img-2">
+                        <img  alt="0" src="~/Images/Leccion/Leccion1/cincoB.png" width="50" height="50" draggable="true" ondragstart="drag(event)" id="cinco">
+                    </div>
+                </div>
+                <div class="item4">
+                    <div class="img">
+                        <img src="~/Images/Leccion/Leccion1/seisB.png" width="50" height="50" draggable="true" ondragstart="drag(event)" id="seis">
+                    </div>
+                    <div class="img-2">
+                        <img  alt="0" src="~/Images/Leccion/Leccion1/sieteB.png" width="50" height="50" draggable="true" ondragstart="drag(event)" id="siete">
+                    </div>
+                </div>
+                <div class="item5">
+                    <div class="img">
+                        <img src="~/Images/Leccion/Leccion1/ochoB.png" width="50" height="50" draggable="true" ondragstart="drag(event)" id="ocho">
+                    </div>
+                    <div class="img-2">
+                        <img  alt="0" src="~/Images/Leccion/Leccion1/nueveB.png" width="50" height="50" draggable="true" ondragstart="drag(event)" id="nueve">
+                    </div>
+                </div>
+            </div>
+            <div class="container-2">
+                <div class="item1">
+                    <div class="box-Cont2" id="0" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    
+                    </div>
+                    <div class="sound">
+                        <button onclick="PlaySoundB(5)" class="sound-btn">
+                            &#128227;
+                        </button>
+                    </div>
+                </div>
+                <div class="item2">
+                    <div class="box-Cont2" id="1" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    
+                    </div>
+                    <div class="sound">
+                        <button onclick="PlaySoundB(9)" class="sound-btn">
+                            &#128227;
+                        </button>
+                    </div>
+                </div>
+                <div class="item3">
+                    <div class="box-Cont2" id="2" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    
+                    </div>
+                    <div class="sound">
+                        <button onclick="PlaySoundB(6)" class="sound-btn">
+                            &#128227;
+                        </button>
+                    </div>
+                </div>
+                <div class="item4">
+                    <div class="box-Cont2" id="3" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    
+                    </div>
+                    <div class="sound">
+                        <button onclick="PlaySoundB(1)" class="sound-btn">
+                            &#128227;
+                        </button>
+                    </div>
+                </div>
+                <div class="item5">
+                    <div class="box-Cont2" id="4" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    
+                    </div>
+                    <div class="sound">
+                        <button onclick="PlaySoundB(2)" class="sound-btn">
+                            &#128227;
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="container-3">
+                <div class="item1">
+                    <div class="box-Cont2" id="5" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    
+                    </div>
+                    <div class="sound">
+                        <button onclick="PlaySoundB(4)" class="sound-btn">
+                            &#128227;
+                        </button>
+                    </div>
+                </div>
+                <div class="item2">
+                    <div class="box-Cont2" id="6" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    
+                    </div>
+                    <div class="sound">
+                        <button onclick="PlaySoundB(7)" class="sound-btn">
+                            &#128227;
+                        </button>
+                    </div>
+                </div>
+                <div class="item3">
+                    <div class="box-Cont2" id="7" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    
+                    </div>
+                    <div class="sound">
+                        <button onclick="PlaySoundB(3)" class="sound-btn">
+                            &#128227;
+                        </button>
+                    </div>
+                </div>
+                <div class="item4">
+                    <div class="box-Cont2" id="8" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    
+                    </div>
+                    <div class="sound">
+                        <button onclick="PlaySoundB(8)" class="sound-btn">
+                            &#128227;
+                        </button>
+                    </div>
+                </div>
+                <div class="item5">
+                    <div class="box-Cont2" id="9" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    
+                    </div>
+                    <div class="sound">
+                        <button onclick="PlaySoundB(0)" class="sound-btn">
+                            &#128227;
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+            
+        </div>
+        <div id="end" class="end">
+            <footer>
+                <p>Hecho con &#128147; por Alumnos de UPN &#9996;</p>
+            </footer>
+        </div>
+    </div>
+    
+    
+    
+    </div>
+    <script src="~/js/Leccion1Ej3Script.js"></script>
+    
+</body>
+</html>

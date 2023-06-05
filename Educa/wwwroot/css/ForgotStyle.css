@@ -1,0 +1,863 @@
+﻿.card {
+    width: 240px;
+    height: 254px;
+    padding: 0 15px;
+    text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    gap: 12px;
+    background: #fff;
+    border-radius: 20px;
+}
+
+    .card > * {
+        margin: 0;
+    }
+
+.card__title {
+    font-size: 23px;
+    font-weight: 900;
+    color: #333;
+}
+
+.card__content {
+    font-size: 13px;
+    line-height: 18px;
+    color: #333;
+}
+
+.card__form {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    gap: 10px;
+}
+
+    .card__form input {
+        margin-top: 10px;
+        outline: 0;
+        background: rgb(255, 255, 255);
+        -webkit-box-shadow: transparent 0px 0px 0px 1px inset;
+        box-shadow: transparent 0px 0px 0px 1px inset;
+        padding: 0.6em;
+        border-radius: 14px;
+        border: 1px solid #333;
+        color: black;
+    }
+
+    .card__form button {
+        border: 0;
+        background: #111;
+        color: #fff;
+        padding: 0.68em;
+        border-radius: 14px;
+        font-weight: bold;
+    }
+
+.sign-up:hover {
+    opacity: 0.8;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #00000000;
+    margin: 0;
+    padding: 0;
+}
+
+#gradient {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    margin: 32px 0;
+    font-family: "Roboto", "Segoe UI", BlinkMacSystemFont, system-ui, -apple-system;
+    font-weight: normal;
+    text-align: center;
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.column {
+    flex-basis: calc(50% - 10px);
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.column3 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    place-items: center;
+    display: grid;
+}
+
+.column:last-child {
+    margin-right: 0;
+}
+
+.column3 {
+    flex-basis: calc(50% - 10px);
+    margin-bottom: 20px;
+    background-color: #ffffff00;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0);
+    place-items: center;
+    display: grid;
+}
+
+    .column3:last-child {
+        margin-right: 0;
+    }
+
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    input[type="submit"]:hover {
+        background-color: #3e8e41;
+    }
+
+.input-container {
+    position: relative;
+    margin: 30px 15px;
+    width: 200px;
+}
+
+    .input-container input[type="text"],
+    input[type="email"],
+    input[type="number"],
+    input[type="phone"],
+    input[type="password"] {
+        font-size: 20px;
+        width: 100%;
+        border: none;
+        border-bottom: 2px solid #ccc;
+        padding: 5px 0;
+        background-color: transparent;
+        outline: none;
+    }
+
+    .input-container .label {
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: #ccc;
+        -webkit-transition: all 0.3s ease;
+        transition: all 0.3s ease;
+        pointer-events: none;
+    }
+
+    .input-container input[type="text"]:focus ~ .label,
+    .input-container input[type="text"]:valid ~ .label,
+    .input-container input[type="password"]:focus ~ .label,
+    .input-container input[type="password"]:valid ~ .label,
+    .input-container input[type="number"]:focus ~ .label,
+    .input-container input[type="number"]:valid ~ .label,
+    .input-container input[type="phone"]:focus ~ .label,
+    .input-container input[type="phone"]:valid ~ .label,
+    .input-container input[type="email"]:focus ~ .label,
+    .input-container input[type="email"]:valid ~ .label {
+        top: -20px;
+        font-size: 16px;
+        color: #333;
+    }
+
+    .input-container .underline {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: 2px;
+        width: 100%;
+        background-color: #333;
+        -webkit-transform: scaleX(0);
+        -ms-transform: scaleX(0);
+        transform: scaleX(0);
+        -webkit-transition: all 0.3s ease;
+        transition: all 0.3s ease;
+    }
+
+    .input-container input[type="text"]:focus ~ .underline,
+    .input-container input[type="text"]:valid ~ .underline,
+    .input-container input[type="password"]:focus ~ .underline,
+    .input-container input[type="password"]:valid ~ .underline,
+    .input-container input[type="number"]:focus ~ .underline,
+    .input-container input[type="number"]:valid ~ .underline,
+    .input-container input[type="phone"]:focus ~ .underline,
+    .input-container input[type="phone"]:valid ~ .underline,
+    .input-container input[type="email"]:focus ~ .underline,
+    .input-container input[type="email"]:valid ~ .underline {
+        -webkit-transform: scaleX(1);
+        -ms-transform: scaleX(1);
+        transform: scaleX(1);
+    }
+
+button {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    background: transparent;
+    padding: 0;
+    font-size: inherit;
+    font-family: inherit;
+}
+
+    button.learn-more {
+        width: 12rem;
+        height: auto;
+        right: 10px;
+        float: right;
+    }
+
+        button.learn-more .circle {
+            -webkit-transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+            transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+            position: relative;
+            display: block;
+            margin: 0;
+            width: 3rem;
+            height: 3rem;
+            background: #282936;
+            border-radius: 1.625rem;
+        }
+
+            button.learn-more .circle .icon {
+                -webkit-transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+                transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                margin: auto;
+                background: #fff;
+            }
+
+                button.learn-more .circle .icon.arrow {
+                    -webkit-transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+                    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+                    left: 0.625rem;
+                    width: 1.125rem;
+                    height: 0.125rem;
+                    background: none;
+                }
+
+                    button.learn-more .circle .icon.arrow::before {
+                        position: absolute;
+                        content: "";
+                        top: -0.29rem;
+                        right: 0.0625rem;
+                        width: 0.625rem;
+                        height: 0.625rem;
+                        border-top: 0.125rem solid #fff;
+                        border-right: 0.125rem solid #fff;
+                        -webkit-transform: rotate(45deg);
+                        -ms-transform: rotate(45deg);
+                        transform: rotate(45deg);
+                    }
+
+        button.learn-more .button-text {
+            -webkit-transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+            transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            padding: 0.75rem 0;
+            margin: 0 0 0 1.85rem;
+            color: #282936;
+            font-weight: 700;
+            line-height: 1.6;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+    button:hover .circle {
+        width: 100%;
+    }
+
+        button:hover .circle .icon.arrow {
+            background: #fff;
+            -webkit-transform: translate(1rem, 0);
+            -ms-transform: translate(1rem, 0);
+            transform: translate(1rem, 0);
+        }
+
+    button:hover .button-text {
+        color: #fff;
+    }
+
+.btn {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background: #93e2cb;
+    border-radius: 4px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 80px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 1rem;
+    width: 180px;
+}
+
+.wheel-and-hamster {
+    --dur: 1s;
+    position: relative;
+    width: 12em;
+    height: 12em;
+    font-size: 14px;
+}
+
+.wheel,
+.hamster,
+.hamster div,
+.spoke {
+    position: absolute;
+}
+
+.wheel,
+.spoke {
+    border-radius: 50%;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.wheel {
+    background: radial-gradient(100% 100% at center,hsla(0,0%,60%,0) 47.8%,hsl(0,0%,60%) 48%);
+    z-index: 2;
+}
+
+.hamster {
+    -webkit-animation: hamster var(--dur) ease-in-out infinite;
+    animation: hamster var(--dur) ease-in-out infinite;
+    top: 50%;
+    left: calc(50% - 3.5em);
+    width: 7em;
+    height: 3.75em;
+    -webkit-transform: rotate(4deg) translate(-0.8em,1.85em);
+    -ms-transform: rotate(4deg) translate(-0.8em,1.85em);
+    transform: rotate(4deg) translate(-0.8em,1.85em);
+    -webkit-transform-origin: 50% 0;
+    -ms-transform-origin: 50% 0;
+    transform-origin: 50% 0;
+    z-index: 1;
+}
+
+.hamster__head {
+    -webkit-animation: hamsterHead var(--dur) ease-in-out infinite;
+    animation: hamsterHead var(--dur) ease-in-out infinite;
+    background: hsl(30,90%,55%);
+    border-radius: 70% 30% 0 100% / 40% 25% 25% 60%;
+    -webkit-box-shadow: 0 -0.25em 0 hsl(30,90%,80%) inset, 0.75em -1.55em 0 hsl(30,90%,90%) inset;
+    box-shadow: 0 -0.25em 0 hsl(30,90%,80%) inset, 0.75em -1.55em 0 hsl(30,90%,90%) inset;
+    top: 0;
+    left: -2em;
+    width: 2.75em;
+    height: 2.5em;
+    -webkit-transform-origin: 100% 50%;
+    -ms-transform-origin: 100% 50%;
+    transform-origin: 100% 50%;
+}
+
+.hamster__ear {
+    -webkit-animation: hamsterEar var(--dur) ease-in-out infinite;
+    animation: hamsterEar var(--dur) ease-in-out infinite;
+    background: hsl(0,90%,85%);
+    border-radius: 50%;
+    -webkit-box-shadow: -0.25em 0 hsl(30,90%,55%) inset;
+    box-shadow: -0.25em 0 hsl(30,90%,55%) inset;
+    top: -0.25em;
+    right: -0.25em;
+    width: 0.75em;
+    height: 0.75em;
+    -webkit-transform-origin: 50% 75%;
+    -ms-transform-origin: 50% 75%;
+    transform-origin: 50% 75%;
+}
+
+.hamster__eye {
+    -webkit-animation: hamsterEye var(--dur) linear infinite;
+    animation: hamsterEye var(--dur) linear infinite;
+    background-color: hsl(0,0%,0%);
+    border-radius: 50%;
+    top: 0.375em;
+    left: 1.25em;
+    width: 0.5em;
+    height: 0.5em;
+}
+
+.hamster__nose {
+    background: hsl(0,90%,75%);
+    border-radius: 35% 65% 85% 15% / 70% 50% 50% 30%;
+    top: 0.75em;
+    left: 0;
+    width: 0.2em;
+    height: 0.25em;
+}
+
+.hamster__body {
+    -webkit-animation: hamsterBody var(--dur) ease-in-out infinite;
+    animation: hamsterBody var(--dur) ease-in-out infinite;
+    background: hsl(30,90%,90%);
+    border-radius: 50% 30% 50% 30% / 15% 60% 40% 40%;
+    -webkit-box-shadow: 0.1em 0.75em 0 hsl(30,90%,55%) inset, 0.15em -0.5em 0 hsl(30,90%,80%) inset;
+    box-shadow: 0.1em 0.75em 0 hsl(30,90%,55%) inset, 0.15em -0.5em 0 hsl(30,90%,80%) inset;
+    top: 0.25em;
+    left: 2em;
+    width: 4.5em;
+    height: 3em;
+    -webkit-transform-origin: 17% 50%;
+    -ms-transform-origin: 17% 50%;
+    transform-origin: 17% 50%;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+.hamster__limb--fr,
+.hamster__limb--fl {
+    -webkit-clip-path: polygon(0 0,100% 0,70% 80%,60% 100%,0% 100%,40% 80%);
+    clip-path: polygon(0 0,100% 0,70% 80%,60% 100%,0% 100%,40% 80%);
+    top: 2em;
+    left: 0.5em;
+    width: 1em;
+    height: 1.5em;
+    -webkit-transform-origin: 50% 0;
+    -ms-transform-origin: 50% 0;
+    transform-origin: 50% 0;
+}
+
+.hamster__limb--fr {
+    -webkit-animation: hamsterFRLimb var(--dur) linear infinite;
+    animation: hamsterFRLimb var(--dur) linear infinite;
+    background: -webkit-gradient(linear,left top, left bottom,color-stop(80%, hsl(30,90%,80%)),color-stop(80%, hsl(0,90%,75%)));
+    background: linear-gradient(hsl(30,90%,80%) 80%,hsl(0,90%,75%) 80%);
+    -webkit-transform: rotate(15deg) translateZ(-1px);
+    transform: rotate(15deg) translateZ(-1px);
+}
+
+.hamster__limb--fl {
+    -webkit-animation: hamsterFLLimb var(--dur) linear infinite;
+    animation: hamsterFLLimb var(--dur) linear infinite;
+    background: -webkit-gradient(linear,left top, left bottom,color-stop(80%, hsl(30,90%,90%)),color-stop(80%, hsl(0,90%,85%)));
+    background: linear-gradient(hsl(30,90%,90%) 80%,hsl(0,90%,85%) 80%);
+    -webkit-transform: rotate(15deg);
+    -ms-transform: rotate(15deg);
+    transform: rotate(15deg);
+}
+
+.hamster__limb--br,
+.hamster__limb--bl {
+    border-radius: 0.75em 0.75em 0 0;
+    -webkit-clip-path: polygon(0 0,100% 0,100% 30%,70% 90%,70% 100%,30% 100%,40% 90%,0% 30%);
+    clip-path: polygon(0 0,100% 0,100% 30%,70% 90%,70% 100%,30% 100%,40% 90%,0% 30%);
+    top: 1em;
+    left: 2.8em;
+    width: 1.5em;
+    height: 2.5em;
+    -webkit-transform-origin: 50% 30%;
+    -ms-transform-origin: 50% 30%;
+    transform-origin: 50% 30%;
+}
+
+.hamster__limb--br {
+    -webkit-animation: hamsterBRLimb var(--dur) linear infinite;
+    animation: hamsterBRLimb var(--dur) linear infinite;
+    background: -webkit-gradient(linear,left top, left bottom,color-stop(90%, hsl(30,90%,80%)),color-stop(90%, hsl(0,90%,75%)));
+    background: linear-gradient(hsl(30,90%,80%) 90%,hsl(0,90%,75%) 90%);
+    -webkit-transform: rotate(-25deg) translateZ(-1px);
+    transform: rotate(-25deg) translateZ(-1px);
+}
+
+.hamster__limb--bl {
+    -webkit-animation: hamsterBLLimb var(--dur) linear infinite;
+    animation: hamsterBLLimb var(--dur) linear infinite;
+    background: -webkit-gradient(linear,left top, left bottom,color-stop(90%, hsl(30,90%,90%)),color-stop(90%, hsl(0,90%,85%)));
+    background: linear-gradient(hsl(30,90%,90%) 90%,hsl(0,90%,85%) 90%);
+    -webkit-transform: rotate(-25deg);
+    -ms-transform: rotate(-25deg);
+    transform: rotate(-25deg);
+}
+
+.hamster__tail {
+    -webkit-animation: hamsterTail var(--dur) linear infinite;
+    animation: hamsterTail var(--dur) linear infinite;
+    background: hsl(0,90%,85%);
+    border-radius: 0.25em 50% 50% 0.25em;
+    -webkit-box-shadow: 0 -0.2em 0 hsl(0,90%,75%) inset;
+    box-shadow: 0 -0.2em 0 hsl(0,90%,75%) inset;
+    top: 1.5em;
+    right: -0.5em;
+    width: 1em;
+    height: 0.5em;
+    -webkit-transform: rotate(30deg) translateZ(-1px);
+    transform: rotate(30deg) translateZ(-1px);
+    -webkit-transform-origin: 0.25em 0.25em;
+    -ms-transform-origin: 0.25em 0.25em;
+    transform-origin: 0.25em 0.25em;
+}
+
+.spoke {
+    -webkit-animation: spoke var(--dur) linear infinite;
+    animation: spoke var(--dur) linear infinite;
+    background: radial-gradient(100% 100% at center,hsl(0,0%,60%) 4.8%,hsla(0,0%,60%,0) 5%), -webkit-gradient(linear,left top, left bottom,color-stop(46.9%, hsla(0,0%,55%,0)),color-stop(47%, hsl(0,0%,65%)),color-stop(53%, hsla(0,0%,65%,0))) 50% 50% / 99% 99% no-repeat;
+    background: radial-gradient(100% 100% at center,hsl(0,0%,60%) 4.8%,hsla(0,0%,60%,0) 5%), linear-gradient(hsla(0,0%,55%,0) 46.9%,hsl(0,0%,65%) 47% 52.9%,hsla(0,0%,65%,0) 53%) 50% 50% / 99% 99% no-repeat;
+}
+
+/* Animations */
+@-webkit-keyframes hamster {
+    from, to {
+        -webkit-transform: rotate(4deg) translate(-0.8em,1.85em);
+        transform: rotate(4deg) translate(-0.8em,1.85em);
+    }
+
+    50% {
+        -webkit-transform: rotate(0) translate(-0.8em,1.85em);
+        transform: rotate(0) translate(-0.8em,1.85em);
+    }
+}
+
+@keyframes hamster {
+    from, to {
+        -webkit-transform: rotate(4deg) translate(-0.8em,1.85em);
+        transform: rotate(4deg) translate(-0.8em,1.85em);
+    }
+
+    50% {
+        -webkit-transform: rotate(0) translate(-0.8em,1.85em);
+        transform: rotate(0) translate(-0.8em,1.85em);
+    }
+}
+
+@-webkit-keyframes hamsterHead {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(8deg);
+        transform: rotate(8deg);
+    }
+}
+
+@keyframes hamsterHead {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(8deg);
+        transform: rotate(8deg);
+    }
+}
+
+@-webkit-keyframes hamsterEye {
+    from, 90%, to {
+        -webkit-transform: scaleY(1);
+        transform: scaleY(1);
+    }
+
+    95% {
+        -webkit-transform: scaleY(0);
+        transform: scaleY(0);
+    }
+}
+
+@keyframes hamsterEye {
+    from, 90%, to {
+        -webkit-transform: scaleY(1);
+        transform: scaleY(1);
+    }
+
+    95% {
+        -webkit-transform: scaleY(0);
+        transform: scaleY(0);
+    }
+}
+
+@-webkit-keyframes hamsterEar {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(12deg);
+        transform: rotate(12deg);
+    }
+}
+
+@keyframes hamsterEar {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(12deg);
+        transform: rotate(12deg);
+    }
+}
+
+@-webkit-keyframes hamsterBody {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(-2deg);
+        transform: rotate(-2deg);
+    }
+}
+
+@keyframes hamsterBody {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(-2deg);
+        transform: rotate(-2deg);
+    }
+}
+
+@-webkit-keyframes hamsterFRLimb {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(50deg) translateZ(-1px);
+        transform: rotate(50deg) translateZ(-1px);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(-30deg) translateZ(-1px);
+        transform: rotate(-30deg) translateZ(-1px);
+    }
+}
+
+@keyframes hamsterFRLimb {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(50deg) translateZ(-1px);
+        transform: rotate(50deg) translateZ(-1px);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(-30deg) translateZ(-1px);
+        transform: rotate(-30deg) translateZ(-1px);
+    }
+}
+
+@-webkit-keyframes hamsterFLLimb {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(-30deg);
+        transform: rotate(-30deg);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(50deg);
+        transform: rotate(50deg);
+    }
+}
+
+@keyframes hamsterFLLimb {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(-30deg);
+        transform: rotate(-30deg);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(50deg);
+        transform: rotate(50deg);
+    }
+}
+
+@-webkit-keyframes hamsterBRLimb {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(-60deg) translateZ(-1px);
+        transform: rotate(-60deg) translateZ(-1px);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(20deg) translateZ(-1px);
+        transform: rotate(20deg) translateZ(-1px);
+    }
+}
+
+@keyframes hamsterBRLimb {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(-60deg) translateZ(-1px);
+        transform: rotate(-60deg) translateZ(-1px);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(20deg) translateZ(-1px);
+        transform: rotate(20deg) translateZ(-1px);
+    }
+}
+
+@-webkit-keyframes hamsterBLLimb {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(20deg);
+        transform: rotate(20deg);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(-60deg);
+        transform: rotate(-60deg);
+    }
+}
+
+@keyframes hamsterBLLimb {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(20deg);
+        transform: rotate(20deg);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(-60deg);
+        transform: rotate(-60deg);
+    }
+}
+
+@-webkit-keyframes hamsterTail {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(30deg) translateZ(-1px);
+        transform: rotate(30deg) translateZ(-1px);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(10deg) translateZ(-1px);
+        transform: rotate(10deg) translateZ(-1px);
+    }
+}
+
+@keyframes hamsterTail {
+    from, 25%, 50%, 75%, to {
+        -webkit-transform: rotate(30deg) translateZ(-1px);
+        transform: rotate(30deg) translateZ(-1px);
+    }
+
+    12.5%, 37.5%, 62.5%, 87.5% {
+        -webkit-transform: rotate(10deg) translateZ(-1px);
+        transform: rotate(10deg) translateZ(-1px);
+    }
+}
+
+@-webkit-keyframes spoke {
+    from {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+
+    to {
+        -webkit-transform: rotate(-1turn);
+        transform: rotate(-1turn);
+    }
+}
+
+@keyframes spoke {
+    from {
+        -webkit-transform: rotate(0);
+        transform: rotate(0);
+    }
+
+    to {
+        -webkit-transform: rotate(-1turn);
+        transform: rotate(-1turn);
+    }
+}
+
+.btn-flotante {
+    font-size: 16px; /* Cambiar el tamaño de la tipografia */
+    text-transform: uppercase; /* Texto en mayusculas */
+    font-weight: bold; /* Fuente en negrita o bold */
+    color: #ffffff; /* Color del texto */
+    border-radius: 5px; /* Borde del boton */
+    letter-spacing: 2px; /* Espacio entre letras */
+    background-color: #282936; /* Color de fondo */
+    padding: 18px 30px; /* Relleno del boton */
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    transition: all 300ms ease 0ms;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    z-index: 99;
+}
+
+    .btn-flotante:hover {
+        background-color: #767688; /* Color de fondo al pasar el cursor */
+        box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+        transform: translateY(-7px);
+    }
+
+@media only screen and (max-width: 600px) {
+    .btn-flotante {
+        font-size: 14px;
+        padding: 12px 20px;
+        bottom: 20px;
+        right: 20px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .column, .column3 {
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+}

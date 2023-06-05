@@ -1,0 +1,73 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educa</title>
+    
+    <link rel="stylesheet" href="~/css/Forgot2Style.css">
+    <script src="https://unpkg.com/akar-icons-fonts"></script>
+</head>
+<body >
+      <html>
+        <head>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+        </head>
+        <body>
+            <div id="gradient" />
+        </body>
+    </html>
+    <div class="container">
+        <h1>👋 Llena los datos con ayuda de una persona mayor</h1>
+            <div class="row">
+                
+                <div class="column3">
+                    <form class="form" action="/auth/forgot2" method="post">
+                        <div class="info">
+                        <span class="title">Verificación</span>
+                      <p class="description">Por favor introduce el código que te hemos enviado. </p>
+                         </div>
+                          <div class="inputs">
+                          <input name="a" placeholder="" type="tel" maxlength="1">
+                          <input name="b" placeholder="" type="tel" maxlength="1">
+                          <input name="c" placeholder="" type="tel" maxlength="1">
+                          <input name="d" placeholder="" type="tel" maxlength="1">
+                        </div>
+                              <button class="validate" href="#">Verificar</button>
+                      <p class="resend">No recibes el código ?<a class="resend-action">reenviar</a></p>
+                      
+                      </form>
+                </div>
+                
+                <div class="column3">
+                    <div class="loader"></div>
+                </div>
+                <div class="column3">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                </div>
+            </div>
+    </div>
+    <audio id="MusicForm" >
+        <source src="./Audio/Registro.wav" type="audio/wav">
+    </audio>
+    <a href="/Auth/login" class="btn-flotante"><i class="ai-arrow-left"></i></a>
+    <script  src="~/js/ForgotScript.js"></script>
+    <script>
+        var intentos = 0
+        function PlayAudio(){
+            var audio = document.getElementById("MusicForm");
+            if (intentos == 0) {
+                intentos = intentos + 1;
+                audio.play();
+                
+            }
+            
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,87 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educa</title>
+    
+    <link rel="stylesheet" href="~/css/ForgotStyle.css">
+    <script src="https://unpkg.com/akar-icons-fonts"></script>
+</head>
+<body >
+    <html>
+        <head>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+        </head>
+        <body>
+            <div id="gradient" />
+        </body>
+    </html>
+    <div class="container">
+        <form action="/auth/Forgot" method="POST" onclick="PlayAudio()">
+            <div class="row">
+                <h1>👋 Pide ayuda de una persona mayor</h1>
+                <div class="column3">
+                    <div class="card">
+                        <span class="card__title">Lo olvidaste!  &#128557;</span>
+                        <p class="card__content">Ingresa el email de tu apoderado, para poder restablecer tu contraseña, se enviará un código de verificación.  
+                        </p>
+                        <div class="card__form">
+                            <input placeholder="Tú Email" name="email" type="text">
+                            <button class="sign-up"> Obtener </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="column3">
+                    <div aria-label="Orange and tan hamster running in a metal wheel" role="img" class="wheel-and-hamster">
+                        <div class="wheel"></div>
+                        <div class="hamster">
+                            <div class="hamster__body">
+                                <div class="hamster__head">
+                                    <div class="hamster__ear"></div>
+                                    <div class="hamster__eye"></div>
+                                    <div class="hamster__nose"></div>
+                                </div>
+                                <div class="hamster__limb hamster__limb--fr"></div>
+                                <div class="hamster__limb hamster__limb--fl"></div>
+                                <div class="hamster__limb hamster__limb--br"></div>
+                                <div class="hamster__limb hamster__limb--bl"></div>
+                                <div class="hamster__tail"></div>
+                            </div>
+                        </div>
+                        <div class="spoke"></div>
+                    </div>
+                </div>
+                
+                <div class="column3">
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                </div>
+            </div>
+        </form>
+    </div>
+    <audio id="MusicForm" >
+        <source src="./sounds/Registro.wav" type="audio/wav">
+    </audio>
+    <a href="/Auth/Login" class="btn-flotante"><i class="ai-arrow-left"></i></a>
+    <script  src="~/js/ForgotScript.js"></script>
+    <script>
+        var intentos = 0
+        function PlayAudio(){
+            var audio = document.getElementById("MusicForm");
+            if (intentos == 0) {
+                intentos = intentos + 1;
+                audio.play();
+                
+            }
+            
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Educa</title>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css'>
+  <link rel="stylesheet" href="~/css/Leccion3Ej2Style.css">
+  <link rel="shortcut icon" href="~/Images/Home/LogoIconEduca.png">
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="content">
+  <div id="title" class="title">
+    <div class="title-t">
+        <div class="card">
+            <p class="title1">5°</p>
+            <p class="title2">Ejercicio</p>
+            <img class="svg" src="~/Images/Home/LogoBlack250x150.png" width="105" height="55" alt="">
+        </div>
+    </div>
+               
+  </div>
+  <div id="success-box">
+    <div class="dot"></div>
+    <div class="dot two"></div>
+    <div class="face">
+      <div class="eye"></div>
+      <div class="eye right2"></div>
+      <div class="mouth happy"></div>
+    </div>
+    <div class="shadow scale"></div>
+    <div class="message"><h1 class="alert">Terminaste!</h1><p id="puntos">Puntos: 5</p></div>
+    <button class="button-box" onclick="Next()"><h1 class="green">Continuar</h1></button>
+  </div>
+  <div class="container">
+    <center><h1>Arrastra la silaba junto a su sonido</h1></center>
+    <section class="score">
+        <span class="correct">0</span>/<span class="total">0</span>
+        <button id="play-again-btn">siguiente</button>
+      </section>
+      <section class="draggable-items">
+        <!-- Will be dynamically populated - Example Element: -->
+        <!-- <img class="fab fa-codepen draggable" draggable="true" style="color: #111111;" id="codepen"></img> -->
+      </section>
+      <section class="matching-pairs">
+        <!-- Will be dynamically populated - Example Element: -->
+        <!-- <div class="matching-pair">
+          <span class="label">Codepen</span><span class="droppable" data-brand="codepen"></span>
+        </div> -->
+      </section></div>
+  <div class="end">
+    
+  </div>
+</div>
+  
+<!-- partial -->
+  <script  src="~/js/Leccion3Ej5Script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,123 @@
+﻿<div class="projects-section-header">
+        <p>Cursos</p>
+        <p class="time">@ViewBag.Fecha</p>
+      </div>
+      <div class="projects-section-line">
+        <div class="projects-status">
+          <div class="item-status">
+            <span class="status-number">@ViewBag.Total</span>
+            <span class="status-type">Totales</span>
+          </div>
+        </div>
+        <div class="view-actions">
+          <button class="view-btn list-view" title="List View">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-list">
+              <line x1="8" y1="6" x2="21" y2="6" />
+              <line x1="8" y1="12" x2="21" y2="12" />
+              <line x1="8" y1="18" x2="21" y2="18" />
+              <line x1="3" y1="6" x2="3.01" y2="6" />
+              <line x1="3" y1="12" x2="3.01" y2="12" />
+              <line x1="3" y1="18" x2="3.01" y2="18" /></svg>
+          </button>
+          <button class="view-btn grid-view active" title="Grid View">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-grid">
+              <rect x="3" y="3" width="7" height="7" />
+              <rect x="14" y="3" width="7" height="7" />
+              <rect x="14" y="14" width="7" height="7" />
+              <rect x="3" y="14" width="7" height="7" /></svg>
+          </button>
+        </div>
+      </div>
+      <div class="project-boxes jsGridView">
+
+    @foreach (var item in ViewBag.Cursos)
+    {
+        <div class="project-box-wrapper">
+      <div class="project-box" style="background-color: @item.Cursos.Colores.ColorLight;">
+        <div class="project-box-header">
+          <span>@item.UltFechaModif</span>
+          <div class="more-wrapper">
+              @if(item.EstadoCurso == "Terminado")
+                        {
+                            <a href="/home/temas?curso=@item.Cursos.Id" class="project-btn-more">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="M22 4L12 14.01l-3-3"/></g></svg>
+                            </a>
+                        }else if (item.EstadoCurso == "Inhabilitado")
+                        {
+                            <a href="#" class="project-btn-more">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                        <rect width="18" height="11" x="3" y="11" rx="2" ry="2"/>
+                                        <path d="M7 11V7a5 5 0 0 1 10 0v4"/></g></svg>
+                            </a>
+                        }
+                        else
+                        {
+                           <a href="/home/temas?curso=@item.Cursos.Id" class="project-btn-more">
+                            <img src="~/Images/Curso/NextItem.png"
+                            alt="MDN logo" width="20" height="20"/>
+                             </a> 
+                        }
+            
+          </div>
+        </div>
+        <div class="project-box-content-header">
+          <p class="box-content-header">@item.Cursos.NombreCurso</p>
+          <p class="box-content-subheader">Primer Grado</p>
+        </div>
+        <div class="box-progress-wrapper">
+          <p class="box-progress-header">Progreso</p>
+          <div class="box-progress-bar">
+            <span class="box-progress" style="width: @item.PorcentajeAvance%; background-color: @item.Cursos.Colores.ColorBlack;"></span>
+          </div>
+          <p class="box-progress-percentage">@item.PorcentajeAvance%</p>
+        </div>
+        <div class="project-box-footer">
+          <div class="participants">
+            <img src="@item.Cursos.LinkImgCurso" alt="participant" >
+          </div>
+          @if(item.PorcentajeAvance == 0)
+                    {
+                        <div class="days-left" style="color: black;">
+                        c:
+                        </div>
+                    }else if(item.PorcentajeAvance <= 30)
+                    {
+                       <div class="days-left" style="color: black;">
+                        Recién Empiezas
+                        </div>
+                    }else if(item.PorcentajeAvance >= 30 && item.PorcentajeAvance < 50)
+                    {
+                        <div class="days-left" style="color: black;">
+                        Sigue así
+                        </div>
+                    }else if(item.PorcentajeAvance == 50)
+                    {
+                        <div class="days-left" style="color: black;">
+                        Vas a la mitad
+                        </div>
+                    }else if(item.PorcentajeAvance > 50 && item.PorcentajeAvance < 80)
+                    {
+                        <div class="days-left" style="color: black;">
+                        Ya casi
+                        </div>
+                    }else if(item.PorcentajeAvance >= 80 && item.PorcentajeAvance <= 99)
+                    {
+                        <div class="days-left" style="color: black;">
+                            Queda poco
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="days-left" style="color: black;">
+                            Terminado
+                        </div>
+                    }
+        </div>
+      </div>
+    </div>
+
+    }
+
+  </div>
+    

@@ -1,0 +1,3465 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Educa.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Educa.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Documentos\\Leccion6Arbol.pdf",
+      "PackagePath": "staticwebassets\\Documentos\\Leccion6Arbol.pdf"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Curso\\Exam.png",
+      "PackagePath": "staticwebassets\\Images\\Curso\\Exam.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Curso\\NextItem.png",
+      "PackagePath": "staticwebassets\\Images\\Curso\\NextItem.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Home\\Avatar1.png",
+      "PackagePath": "staticwebassets\\Images\\Home\\Avatar1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Home\\Avatar2.png",
+      "PackagePath": "staticwebassets\\Images\\Home\\Avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Home\\Avatar3.png",
+      "PackagePath": "staticwebassets\\Images\\Home\\Avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Home\\Avatar4.png",
+      "PackagePath": "staticwebassets\\Images\\Home\\Avatar4.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Home\\Avatar5.png",
+      "PackagePath": "staticwebassets\\Images\\Home\\Avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Home\\Avatar6.png",
+      "PackagePath": "staticwebassets\\Images\\Home\\Avatar6.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Home\\Desliza.png",
+      "PackagePath": "staticwebassets\\Images\\Home\\Desliza.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Home\\Logo250x150.png",
+      "PackagePath": "staticwebassets\\Images\\Home\\Logo250x150.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Home\\LogoBlack250x150.png",
+      "PackagePath": "staticwebassets\\Images\\Home\\LogoBlack250x150.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Home\\LogoIconEduca.png",
+      "PackagePath": "staticwebassets\\Images\\Home\\LogoIconEduca.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Ben1.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Ben1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Ben2.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Ben2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Ben3.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Ben3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Ben4.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Ben4.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Ben5.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Ben5.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Ben6.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Ben6.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Car1.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Car1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Car2.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Car2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Car3.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Car3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Car4.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Car4.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Car5.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Car5.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Car6.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Car6.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Cubes.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Cubes.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\ObjetivoLandingPage.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\ObjetivoLandingPage.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Topic1.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Topic1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Topic2.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Topic2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Topic3.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Topic3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Landing\\Us.png",
+      "PackagePath": "staticwebassets\\Images\\Landing\\Us.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le10.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le10.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le11.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le11.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le12.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le12.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le13.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le13.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le14.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le14.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le15.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le15.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le16.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le16.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le17.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le17.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le18.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le18.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le19.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le19.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le2.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le20.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le20.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le21.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le21.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le22.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le22.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le23.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le23.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le24.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le24.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le25.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le25.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le26.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le26.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le27.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le27.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le28.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le28.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le29.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le29.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le30.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le30.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le31.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le31.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le32.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le32.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le33.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le33.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le34.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le34.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le35.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le35.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le36.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le36.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le37.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le37.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le38.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le38.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le4.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le4.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le5.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le5.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le6.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le6.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le7.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le7.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le8.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le8.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Le9.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Le9.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\CeroPelota.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\CeroPelota.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\CincoPelota.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\CincoPelota.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\CincoText.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\CincoText.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\CuatroPelota.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\CuatroPelota.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\DosPelota.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\DosPelota.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\18.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\2.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\27.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\36.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\4.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\45.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\5.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\54.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\54.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\6.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\63.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\63.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\7.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\72.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\72.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\8.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\EJ2\\9.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\EJ2\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\NuevePelota.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\NuevePelota.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\Nuevetext.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\Nuevetext.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\OchoPelota.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\OchoPelota.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\SeisPelota.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\SeisPelota.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\SietePelota.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\SietePelota.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\TresPelota.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\TresPelota.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\UnoPelota.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\UnoPelota.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\bloques-numericos.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\bloques-numericos.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\cero.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\cero.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\ceroB.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\ceroB.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\cinco.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\cinco.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\cincoB.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\cincoB.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\cuatro.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\cuatro.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\cuatroB.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\cuatroB.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\dos.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\dos.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\dosB.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\dosB.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\igual.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\igual.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\nueve.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\nueve.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\nueveB.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\nueveB.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\ocho.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\ocho.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\ochoB.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\ochoB.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\seis.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\seis.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\seisB.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\seisB.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\siete.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\siete.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\sieteB.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\sieteB.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\tres.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\tres.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\tresB.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\tresB.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\uno.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\uno.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion1\\unoB.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion1\\unoB.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\APalabras.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\APalabras.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\EPalabras.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\EPalabras.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\IPalabras.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\IPalabras.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\OPalabras.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\OPalabras.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\UPalabras.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\UPalabras.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\aEj1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\aEj1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\carta-a.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\carta-a.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\eEj1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\eEj1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\estrella.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\estrella.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\iEj1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\iEj1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\ira.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\ira.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\letra-e.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\letra-e.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\letra-i.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\letra-i.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\letra-o.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\letra-o.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\letra-u.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\letra-u.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\luna.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\luna.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\oEj1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\oEj1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\ola.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\ola.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\Pag2\\uEj1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\Pag2\\uEj1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\abeja.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\abeja.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\elefante.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\elefante.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\isla.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\isla.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\oso.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\oso.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion2\\uva.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion2\\uva.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\BPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\BPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\CPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\CPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\DPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\DPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Ej1\\esEj1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Ej1\\esEj1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Ej1\\laEj1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Ej1\\laEj1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Ej1\\llaEj1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Ej1\\llaEj1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Ej1\\luEj1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Ej1\\luEj1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Ej1\\raEj1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Ej1\\raEj1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\FPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\FPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\GPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\GPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\HPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\HPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\JPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\JPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\KPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\KPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\LPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\LPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\MPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\MPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\NPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\NPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\PPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\PPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag10\\da.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag10\\da.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag10\\de.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag10\\de.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag10\\di.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag10\\di.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag10\\do.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag10\\do.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag10\\du.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag10\\du.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag11\\fa.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag11\\fa.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag11\\fe.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag11\\fe.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag11\\fi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag11\\fi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag11\\fo.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag11\\fo.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag11\\fu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag11\\fu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag12\\ga.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag12\\ga.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag12\\ge.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag12\\ge.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag12\\gi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag12\\gi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag12\\go.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag12\\go.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag12\\gu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag12\\gu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag13\\gude.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag13\\gude.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag13\\gudi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag13\\gudi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag13\\gue.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag13\\gue.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag13\\gui.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag13\\gui.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag14\\ha.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag14\\ha.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag14\\he.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag14\\he.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag14\\hi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag14\\hi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag14\\ho.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag14\\ho.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag14\\hu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag14\\hu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag15\\ja.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag15\\ja.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag15\\je.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag15\\je.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag15\\ji.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag15\\ji.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag15\\jo.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag15\\jo.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag15\\ju.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag15\\ju.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag16\\ka.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag16\\ka.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag16\\ke.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag16\\ke.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag16\\ki.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag16\\ki.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag16\\ko.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag16\\ko.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag16\\ku.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag16\\ku.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag17\\La.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag17\\La.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag17\\Le.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag17\\Le.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag17\\Li.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag17\\Li.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag17\\Lo.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag17\\Lo.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag17\\Lu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag17\\Lu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag18\\Lla.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag18\\Lla.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag18\\Lle.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag18\\Lle.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag18\\Lli.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag18\\Lli.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag18\\Llo.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag18\\Llo.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag18\\Llu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag18\\Llu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag19\\ma.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag19\\ma.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag19\\me.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag19\\me.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag19\\mi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag19\\mi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag19\\mo.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag19\\mo.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag19\\mu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag19\\mu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\bPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\bPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\cPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\cPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\dPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\dPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\fPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\fPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\gPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\gPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\hPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\hPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\jPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\jPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\kPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\kPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\lPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\lPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\mPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\mPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\nPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\nPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\niuPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\niuPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\pPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\pPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\qPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\qPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\rPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\rPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\sPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\sPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\tPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\tPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\vPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\vPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\wPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\wPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\xPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\xPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\yPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\yPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag1\\zPag1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag1\\zPag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag20\\na.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag20\\na.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag20\\ne.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag20\\ne.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag20\\ni.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag20\\ni.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag20\\no.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag20\\no.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag20\\nu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag20\\nu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag21\\nia.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag21\\nia.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag21\\nie.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag21\\nie.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag21\\nii.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag21\\nii.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag21\\nio.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag21\\nio.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag21\\niu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag21\\niu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag22\\pa.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag22\\pa.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag22\\pe.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag22\\pe.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag22\\pi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag22\\pi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag22\\po.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag22\\po.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag22\\pu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag22\\pu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag23\\que.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag23\\que.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag23\\qui.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag23\\qui.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag24\\ra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag24\\ra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag24\\re.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag24\\re.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag24\\ri.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag24\\ri.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag24\\ro.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag24\\ro.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag24\\ru.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag24\\ru.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag25\\sa.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag25\\sa.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag25\\se.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag25\\se.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag25\\si.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag25\\si.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag25\\so.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag25\\so.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag25\\su.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag25\\su.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag26\\ta.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag26\\ta.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag26\\te.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag26\\te.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag26\\ti.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag26\\ti.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag26\\to.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag26\\to.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag26\\tu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag26\\tu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag27\\va.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag27\\va.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag27\\ve.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag27\\ve.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag27\\vi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag27\\vi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag27\\vo.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag27\\vo.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag27\\vu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag27\\vu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag28\\wa.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag28\\wa.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag28\\we.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag28\\we.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag28\\wi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag28\\wi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag28\\wo.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag28\\wo.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag28\\wu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag28\\wu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag29\\xa.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag29\\xa.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag29\\xe.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag29\\xe.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag29\\xi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag29\\xi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag29\\xo.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag29\\xo.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag29\\xu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag29\\xu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag2\\D3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag2\\D3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag2\\DPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag2\\DPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag2\\L3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag2\\L3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag2\\LPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag2\\LPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag2\\M3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag2\\M3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag2\\MPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag2\\MPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag2\\P3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag2\\P3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag2\\PPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag2\\PPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag2\\S3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag2\\S3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag2\\SPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag2\\SPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag30\\ya.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag30\\ya.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag30\\ye.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag30\\ye.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag30\\yi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag30\\yi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag30\\yo.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag30\\yo.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag30\\yu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag30\\yu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag31\\za.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag31\\za.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag31\\ze.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag31\\ze.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag31\\zi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag31\\zi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag31\\zo.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag31\\zo.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag31\\zu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag31\\zu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag3\\C3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag3\\C3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag3\\CPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag3\\CPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag3\\F3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag3\\F3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag3\\FPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag3\\FPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag3\\N3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag3\\N3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag3\\NPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag3\\NPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag3\\R3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag3\\R3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag3\\RPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag3\\RPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag3\\T3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag3\\T3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag3\\TPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag3\\TPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag4\\B3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag4\\B3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag4\\BPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag4\\BPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag4\\G3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag4\\G3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag4\\GPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag4\\GPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag4\\J3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag4\\J3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag4\\JPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag4\\JPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag4\\Q3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag4\\Q3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag4\\QPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag4\\QPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag4\\V3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag4\\V3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag4\\VPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag4\\VPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag5\\H3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag5\\H3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag5\\HPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag5\\HPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag5\\K3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag5\\K3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag5\\KPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag5\\KPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag5\\Nie3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag5\\Nie3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag5\\NiePalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag5\\NiePalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag5\\Y3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag5\\Y3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag5\\YPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag5\\YPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag5\\Z3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag5\\Z3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag5\\ZPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag5\\ZPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag6\\W3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag6\\W3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag6\\WPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag6\\WPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag6\\X3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag6\\X3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag6\\XPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag6\\XPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag7\\ba.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag7\\ba.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag7\\be.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag7\\be.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag7\\bi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag7\\bi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag7\\bo.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag7\\bo.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag7\\bu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag7\\bu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag8\\ca.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag8\\ca.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag8\\ce.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag8\\ce.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag8\\ci.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag8\\ci.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag8\\co.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag8\\co.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag8\\cu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag8\\cu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag9\\cha.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag9\\cha.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag9\\che.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag9\\che.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag9\\chi.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag9\\chi.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag9\\cho.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag9\\cho.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\Pag9\\chu.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\Pag9\\chu.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\QPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\QPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\RPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\RPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\SPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\SPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\TPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\TPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\VPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\VPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\WPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\WPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\XPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\XPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\YPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\YPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\ZPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\ZPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion3\\ÑPalabra.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion3\\ÑPalabra.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion4\\Pag1\\Img1M.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion4\\Pag1\\Img1M.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion4\\Pag2\\Img1M.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion4\\Pag2\\Img1M.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion5\\Ej1\\C.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion5\\Ej1\\C.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion5\\Ej1\\C1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion5\\Ej1\\C1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion5\\Ej1\\L.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion5\\Ej1\\L.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion5\\Ej1\\L1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion5\\Ej1\\L1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion5\\Ej1\\M.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion5\\Ej1\\M.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion5\\Ej1\\M1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion5\\Ej1\\M1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion5\\Ej2\\C.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion5\\Ej2\\C.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion5\\Ej2\\C1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion5\\Ej2\\C1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion5\\Ej2\\I.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion5\\Ej2\\I.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion5\\Ej2\\I1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion5\\Ej2\\I1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion5\\Pag1\\Img1M.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion5\\Pag1\\Img1M.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion5\\Pag2\\Img1M.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion5\\Pag2\\Img1M.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion6\\Ej1\\Ej1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion6\\Ej1\\Ej1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Leccion6\\Pag1\\Leccion6.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Leccion6\\Pag1\\Leccion6.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema1\\Exam1\\1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema1\\Exam1\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema1\\Exam1\\10.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema1\\Exam1\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema1\\Exam1\\2.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema1\\Exam1\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema1\\Exam1\\3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema1\\Exam1\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema1\\Exam1\\4.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema1\\Exam1\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema1\\Exam1\\5.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema1\\Exam1\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema1\\Exam1\\6.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema1\\Exam1\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema1\\Exam1\\7.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema1\\Exam1\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema1\\Exam1\\8.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema1\\Exam1\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema1\\Exam1\\9.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema1\\Exam1\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema2\\Exam1\\1.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema2\\Exam1\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema2\\Exam1\\10.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema2\\Exam1\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema2\\Exam1\\2.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema2\\Exam1\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema2\\Exam1\\3.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema2\\Exam1\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema2\\Exam1\\4.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema2\\Exam1\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema2\\Exam1\\5.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema2\\Exam1\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema2\\Exam1\\6.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema2\\Exam1\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema2\\Exam1\\7.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema2\\Exam1\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema2\\Exam1\\8.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema2\\Exam1\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Leccion\\Subtema2\\Exam1\\9.png",
+      "PackagePath": "staticwebassets\\Images\\Leccion\\Subtema2\\Exam1\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Fin.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Fin.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag1.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag1Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag1Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag2.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag2Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag2Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag3.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag3Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag3Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag4.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag4.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag4Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag4Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag5.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag5.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag5Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag5Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag6.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag6.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag6Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\H1Pag6Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia1\\PortadaH1.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia1\\PortadaH1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Fin.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Fin.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag1.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag1Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag1Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag2.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag2Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag2Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag3.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag3Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag3Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag4.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag4.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag4Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag4Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag5.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag5.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag5Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag5Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag6.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag6.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag6Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\H2Pag6Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia2\\PortadaH2.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia2\\PortadaH2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Fin.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Fin.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag1.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag1Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag1Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag2.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag2Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag2Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag3.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag3Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag3Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag4.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag4.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag4Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag4Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag5.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag5.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag5Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia3\\H3Pag5Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia3\\PortadaH3.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia3\\PortadaH3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Fin.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Fin.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag1.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag1Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag1Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag2.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag2Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag2Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag3.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag3Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag3Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag4.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag4.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag4Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag4Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag5.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag5.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag5Img.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia4\\H4Pag5Img.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Subtema\\HistoriasSencillas\\Historia4\\PortadaH4.png",
+      "PackagePath": "staticwebassets\\Images\\Subtema\\HistoriasSencillas\\Historia4\\PortadaH4.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Tema\\Tema1.png",
+      "PackagePath": "staticwebassets\\Images\\Tema\\Tema1.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Tema\\Tema2.png",
+      "PackagePath": "staticwebassets\\Images\\Tema\\Tema2.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\Images\\Tema\\Tema3.png",
+      "PackagePath": "staticwebassets\\Images\\Tema\\Tema3.png"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\AvatarUserStyle.css",
+      "PackagePath": "staticwebassets\\css\\AvatarUserStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\CustionarioIStyle.css",
+      "PackagePath": "staticwebassets\\css\\CustionarioIStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\DatosUsuarioStyle.css",
+      "PackagePath": "staticwebassets\\css\\DatosUsuarioStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\EducaNinjaStyle.css",
+      "PackagePath": "staticwebassets\\css\\EducaNinjaStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Forgot2Style.css",
+      "PackagePath": "staticwebassets\\css\\Forgot2Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Forgot3Style.css",
+      "PackagePath": "staticwebassets\\css\\Forgot3Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\ForgotStyle.css",
+      "PackagePath": "staticwebassets\\css\\ForgotStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\HistoriaIndexStyle.css",
+      "PackagePath": "staticwebassets\\css\\HistoriaIndexStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\HistoriaNp6Style.css",
+      "PackagePath": "staticwebassets\\css\\HistoriaNp6Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\InfoStyle.css",
+      "PackagePath": "staticwebassets\\css\\InfoStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion1Ej1Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion1Ej1Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion1Ej2Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion1Ej2Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion1Ej3Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion1Ej3Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion1Pag1Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion1Pag1Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion1Pag2Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion1Pag2Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion1Pag3Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion1Pag3Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion2Ej1Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion2Ej1Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion2Pag1Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion2Pag1Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion2Pag2Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion2Pag2Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion3Ej1.css",
+      "PackagePath": "staticwebassets\\css\\Leccion3Ej1.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion3Ej2Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion3Ej2Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion3Pag1.css",
+      "PackagePath": "staticwebassets\\css\\Leccion3Pag1.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion3Pag1Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion3Pag1Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion3Pag2.css",
+      "PackagePath": "staticwebassets\\css\\Leccion3Pag2.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion3Pag7Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion3Pag7Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion4Ej1.css",
+      "PackagePath": "staticwebassets\\css\\Leccion4Ej1.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion4Ej2Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion4Ej2Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion4Pag1Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion4Pag1Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion4Pag2Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion4Pag2Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion4Pag3Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion4Pag3Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion5Ej1Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion5Ej1Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion5Ej2Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion5Ej2Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion5Pag1Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion5Pag1Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion5Pag2Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion5Pag2Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion6Ej1Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion6Ej1Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Leccion6Pag1Style.css",
+      "PackagePath": "staticwebassets\\css\\Leccion6Pag1Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\LoginStyle.css",
+      "PackagePath": "staticwebassets\\css\\LoginStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\LogoutStyle.css",
+      "PackagePath": "staticwebassets\\css\\LogoutStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\NotaUsuarioStyle.css",
+      "PackagePath": "staticwebassets\\css\\NotaUsuarioStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\PreHistoriaStyle.css",
+      "PackagePath": "staticwebassets\\css\\PreHistoriaStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\PreIndexStyle.css",
+      "PackagePath": "staticwebassets\\css\\PreIndexStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\SignInStyle.css",
+      "PackagePath": "staticwebassets\\css\\SignInStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Subtema1Exam1.css",
+      "PackagePath": "staticwebassets\\css\\Subtema1Exam1.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\Subtema1Exam2Style.css",
+      "PackagePath": "staticwebassets\\css\\Subtema1Exam2Style.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\landingstyle.css",
+      "PackagePath": "staticwebassets\\css\\landingstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\AlertLoginScript.js",
+      "PackagePath": "staticwebassets\\js\\AlertLoginScript.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\AvatarUsuarioScript.js",
+      "PackagePath": "staticwebassets\\js\\AvatarUsuarioScript.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\CuestionarioIGuestionsScript.js",
+      "PackagePath": "staticwebassets\\js\\CuestionarioIGuestionsScript.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\CuestionarioIScript.js",
+      "PackagePath": "staticwebassets\\js\\CuestionarioIScript.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\DatosUsuarioScript.js",
+      "PackagePath": "staticwebassets\\js\\DatosUsuarioScript.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\EducaNinjaScript.js",
+      "PackagePath": "staticwebassets\\js\\EducaNinjaScript.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Forgot3Script.js",
+      "PackagePath": "staticwebassets\\js\\Forgot3Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\ForgotScript.js",
+      "PackagePath": "staticwebassets\\js\\ForgotScript.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\HistoriaNp6Script.js",
+      "PackagePath": "staticwebassets\\js\\HistoriaNp6Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\InfoScript.js",
+      "PackagePath": "staticwebassets\\js\\InfoScript.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\LandindScript.js",
+      "PackagePath": "staticwebassets\\js\\LandindScript.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion1Ej1Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion1Ej1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion1Ej2Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion1Ej2Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion1Ej3Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion1Ej3Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion1Pag1Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion1Pag1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion1Pag2Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion1Pag2Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion1Pag3Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion1Pag3Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion2Ej1Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion2Ej1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion2Pag1Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion2Pag1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion2Pag2Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion2Pag2Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Ej1Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Ej1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Ej2Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Ej2Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Ej3Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Ej3Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Ej4Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Ej4Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Ej5Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Ej5Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Ej6Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Ej6Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag10Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag10Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag11Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag11Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag12Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag12Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag13Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag13Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag14Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag14Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag15Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag15Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag16Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag16Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag17Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag17Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag18Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag18Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag19Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag19Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag1Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag20Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag20Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag21Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag21Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag22Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag22Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag23Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag23Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag24Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag24Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag25Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag25Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag26Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag26Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag27Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag27Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag28Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag28Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag29Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag29Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag2Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag2Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag30Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag30Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag31Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag31Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag3Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag3Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag4Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag4Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag5Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag5Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag6Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag6Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag7Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag7Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag8Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag8Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion3Pag9Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion3Pag9Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion4Ej1Data.js",
+      "PackagePath": "staticwebassets\\js\\Leccion4Ej1Data.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion4Ej1Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion4Ej1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion4Ej2Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion4Ej2Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion4Pag1Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion4Pag1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion4Pag2Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion4Pag2Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion4Pag3Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion4Pag3Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion5Ej1Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion5Ej1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion5Ej2Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion5Ej2Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion5Pag1Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion5Pag1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion5Pag2Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion5Pag2Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion6Ej1Data.js",
+      "PackagePath": "staticwebassets\\js\\Leccion6Ej1Data.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion6Ej1Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion6Ej1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Leccion6Pag1Script.js",
+      "PackagePath": "staticwebassets\\js\\Leccion6Pag1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\LoginScript.js",
+      "PackagePath": "staticwebassets\\js\\LoginScript.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\LogoutScript.js",
+      "PackagePath": "staticwebassets\\js\\LogoutScript.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Subtema1Exam1Data.js",
+      "PackagePath": "staticwebassets\\js\\Subtema1Exam1Data.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Subtema1Exam1Script.js",
+      "PackagePath": "staticwebassets\\js\\Subtema1Exam1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Subtema1Exam2Script.js",
+      "PackagePath": "staticwebassets\\js\\Subtema1Exam2Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Subtema2Exam1Data.js",
+      "PackagePath": "staticwebassets\\js\\Subtema2Exam1Data.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\Subtema2Exam1Script.js",
+      "PackagePath": "staticwebassets\\js\\Subtema2Exam1Script.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\FinishQuestion.wav",
+      "PackagePath": "staticwebassets\\sounds\\FinishQuestion.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\BienHecho.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\BienHecho.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\BuenIntento.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\BuenIntento.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\Leccion1Ej1Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\Leccion1Ej1Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\Leccion1Ej2Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\Leccion1Ej2Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\Leccion1Ej3Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\Leccion1Ej3Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\Leccion1Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\Leccion1Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\Leccion1Pag1.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\Leccion1Pag1.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\Leccion1Pag2Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\Leccion1Pag2Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\Leccion1Pag3Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\Leccion1Pag3Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\cero.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\cero.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\cinco.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\cinco.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\cuatro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\cuatro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\dos.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\dos.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\errorpag1.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\errorpag1.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\nueve.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\nueve.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\ocho.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\ocho.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\seis.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\seis.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\siete.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\siete.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\tres.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\tres.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion1\\uno.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion1\\uno.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion2\\Leccion2Ej1Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion2\\Leccion2Ej1Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion2\\Leccion2Pag1Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion2\\Leccion2Pag1Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion2\\Leccion2Pag2Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion2\\Leccion2Pag2Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion2\\VocalCa.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion2\\VocalCa.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion2\\VocalCe.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion2\\VocalCe.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion2\\VocalCi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion2\\VocalCi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion2\\VocalCo.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion2\\VocalCo.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion2\\VocalCu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion2\\VocalCu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Ej1\\Leccion3Ej1Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Ej1\\Leccion3Ej1Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Leccion3Pag1Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Leccion3Pag1Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag10\\da.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag10\\da.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag10\\de.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag10\\de.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag10\\di.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag10\\di.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag10\\do.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag10\\do.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag10\\du.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag10\\du.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag11\\fa.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag11\\fa.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag11\\fe.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag11\\fe.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag11\\fi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag11\\fi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag11\\fo.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag11\\fo.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag11\\fu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag11\\fu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag12\\ga.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag12\\ga.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag12\\ge.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag12\\ge.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag12\\gi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag12\\gi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag12\\go.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag12\\go.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag12\\gu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag12\\gu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag13\\gude.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag13\\gude.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag13\\gudi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag13\\gudi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag13\\gue.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag13\\gue.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag13\\gui.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag13\\gui.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag14\\ha.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag14\\ha.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag14\\he.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag14\\he.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag14\\hi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag14\\hi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag14\\ho.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag14\\ho.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag14\\hu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag14\\hu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag15\\ja.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag15\\ja.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag15\\je.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag15\\je.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag15\\ji.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag15\\ji.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag15\\jo.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag15\\jo.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag15\\ju.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag15\\ju.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag16\\ka.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag16\\ka.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag16\\ke.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag16\\ke.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag16\\ki.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag16\\ki.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag16\\ko.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag16\\ko.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag16\\ku.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag16\\ku.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag17\\la.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag17\\la.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag17\\le.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag17\\le.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag17\\li.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag17\\li.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag17\\lo.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag17\\lo.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag17\\lu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag17\\lu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag18\\lla.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag18\\lla.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag18\\lle.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag18\\lle.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag18\\lli.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag18\\lli.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag18\\llo.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag18\\llo.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag18\\llu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag18\\llu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag19\\ma.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag19\\ma.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag19\\me.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag19\\me.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag19\\mi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag19\\mi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag19\\mo.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag19\\mo.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag19\\mu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag19\\mu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag20\\na.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag20\\na.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag20\\ne.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag20\\ne.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag20\\ni.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag20\\ni.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag20\\no.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag20\\no.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag20\\nu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag20\\nu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag21\\nia.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag21\\nia.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag21\\nie.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag21\\nie.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag21\\nii.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag21\\nii.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag21\\nio.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag21\\nio.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag21\\niu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag21\\niu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag22\\pa.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag22\\pa.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag22\\pe.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag22\\pe.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag22\\pi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag22\\pi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag22\\po.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag22\\po.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag22\\pu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag22\\pu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag23\\que.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag23\\que.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag23\\qui.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag23\\qui.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag24\\ra.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag24\\ra.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag24\\re.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag24\\re.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag24\\ri.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag24\\ri.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag24\\ro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag24\\ro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag24\\ru.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag24\\ru.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag25\\sa.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag25\\sa.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag25\\se.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag25\\se.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag25\\si.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag25\\si.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag25\\so.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag25\\so.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag25\\su.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag25\\su.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag26\\ta.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag26\\ta.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag26\\te.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag26\\te.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag26\\ti.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag26\\ti.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag26\\to.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag26\\to.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag26\\tu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag26\\tu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag27\\va.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag27\\va.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag27\\ve.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag27\\ve.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag27\\vi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag27\\vi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag27\\vo.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag27\\vo.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag27\\vu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag27\\vu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag28\\wa.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag28\\wa.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag28\\we.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag28\\we.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag28\\wi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag28\\wi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag28\\wo.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag28\\wo.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag28\\wu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag28\\wu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag29\\xa.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag29\\xa.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag29\\xe.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag29\\xe.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag29\\xi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag29\\xi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag29\\xo.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag29\\xo.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag29\\xu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag29\\xu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag2\\Leccion3Pag2D.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag2\\Leccion3Pag2D.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag2\\Leccion3Pag2Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag2\\Leccion3Pag2Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag2\\Leccion3Pag2L.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag2\\Leccion3Pag2L.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag2\\Leccion3Pag2M.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag2\\Leccion3Pag2M.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag2\\Leccion3Pag2P.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag2\\Leccion3Pag2P.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag2\\Leccion3Pag2S.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag2\\Leccion3Pag2S.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag30\\ya.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag30\\ya.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag30\\ye.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag30\\ye.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag30\\yi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag30\\yi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag30\\yo.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag30\\yo.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag30\\yu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag30\\yu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag31\\za.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag31\\za.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag31\\ze.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag31\\ze.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag31\\zi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag31\\zi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag31\\zo.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag31\\zo.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag31\\zu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag31\\zu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag3\\Leccion3Pag3C.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag3\\Leccion3Pag3C.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag3\\Leccion3Pag3F.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag3\\Leccion3Pag3F.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag3\\Leccion3Pag3N.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag3\\Leccion3Pag3N.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag3\\Leccion3Pag3R.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag3\\Leccion3Pag3R.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag3\\Leccion3Pag3T.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag3\\Leccion3Pag3T.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag4\\Leccion3Pag4B.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag4\\Leccion3Pag4B.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag4\\Leccion3Pag4G.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag4\\Leccion3Pag4G.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag4\\Leccion3Pag4J.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag4\\Leccion3Pag4J.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag4\\Leccion3Pag4Q.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag4\\Leccion3Pag4Q.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag4\\Leccion3Pag4V.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag4\\Leccion3Pag4V.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag5\\Leccion3Pag5H.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag5\\Leccion3Pag5H.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag5\\Leccion3Pag5K.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag5\\Leccion3Pag5K.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag5\\Leccion3Pag5Nie.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag5\\Leccion3Pag5Nie.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag5\\Leccion3Pag5Y.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag5\\Leccion3Pag5Y.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag5\\Leccion3Pag5Z.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag5\\Leccion3Pag5Z.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag6\\Leccion3Pag6Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag6\\Leccion3Pag6Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag6\\Leccion3Pag6W.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag6\\Leccion3Pag6W.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag6\\Leccion3Pag6X.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag6\\Leccion3Pag6X.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag7\\ba.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag7\\ba.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag7\\be.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag7\\be.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag7\\bi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag7\\bi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag7\\bo.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag7\\bo.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag7\\bu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag7\\bu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag8\\ca.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag8\\ca.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag8\\ce.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag8\\ce.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag8\\ci.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag8\\ci.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag8\\co.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag8\\co.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag8\\cu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag8\\cu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag9\\cha.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag9\\cha.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag9\\che.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag9\\che.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag9\\chi.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag9\\chi.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag9\\cho.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag9\\cho.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion3\\Pag9\\chu.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion3\\Pag9\\chu.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Ej1\\Leccion4Ej1P1.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Ej1\\Leccion4Ej1P1.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Ej1\\Leccion4Ej1P2.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Ej1\\Leccion4Ej1P2.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Ej1\\Leccion4Ej1P3.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Ej1\\Leccion4Ej1P3.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Ej1\\Leccion4Ej1P4.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Ej1\\Leccion4Ej1P4.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Ej1\\Leccion4Ej1P5.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Ej1\\Leccion4Ej1P5.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Ej2\\Leccion4Ej2Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Ej2\\Leccion4Ej2Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Pag1\\Leccion4Pag1Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Pag1\\Leccion4Pag1Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Pag2\\Leccion4Pag2Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Pag2\\Leccion4Pag2Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Pag3\\Leccion4Pag3DP.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Pag3\\Leccion4Pag3DP.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Pag3\\Leccion4Pag3Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Pag3\\Leccion4Pag3Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Pag3\\Leccion4Pag3NP.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Pag3\\Leccion4Pag3NP.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Pag3\\Leccion4Pag3O.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Pag3\\Leccion4Pag3O.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion4\\Pag3\\Leccion4Pag3S.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion4\\Pag3\\Leccion4Pag3S.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion5\\Pag1\\Leccion5Pag1Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion5\\Pag1\\Leccion5Pag1Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion5\\Pag2\\Leccion5Pag2DP.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion5\\Pag2\\Leccion5Pag2DP.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion5\\Pag2\\Leccion5Pag2Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion5\\Pag2\\Leccion5Pag2Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion5\\Pag2\\Leccion5Pag2NP.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion5\\Pag2\\Leccion5Pag2NP.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion5\\Pag2\\Leccion5Pag2S.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion5\\Pag2\\Leccion5Pag2S.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion6\\Ej1\\1.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion6\\Ej1\\1.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion6\\Ej1\\2.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion6\\Ej1\\2.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion6\\Ej1\\3.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion6\\Ej1\\3.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion6\\Ej1\\4.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion6\\Ej1\\4.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion6\\Ej1\\5.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion6\\Ej1\\5.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion6\\Ej1\\Leccion6Ej1Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion6\\Ej1\\Leccion6Ej1Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Leccion6\\Pag1\\Leccion6Pag1Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Leccion6\\Pag1\\Leccion6Pag1Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Registro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Registro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema1\\Exam1\\1.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema1\\Exam1\\1.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema1\\Exam1\\10.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema1\\Exam1\\10.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema1\\Exam1\\2.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema1\\Exam1\\2.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema1\\Exam1\\3.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema1\\Exam1\\3.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema1\\Exam1\\4.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema1\\Exam1\\4.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema1\\Exam1\\5.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema1\\Exam1\\5.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema1\\Exam1\\6.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema1\\Exam1\\6.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema1\\Exam1\\7.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema1\\Exam1\\7.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema1\\Exam1\\8.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema1\\Exam1\\8.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema1\\Exam1\\9.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema1\\Exam1\\9.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema1\\Exam2\\Subtema1Exam2Intro.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema1\\Exam2\\Subtema1Exam2Intro.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema2\\Exam1\\1.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema2\\Exam1\\1.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema2\\Exam1\\10.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema2\\Exam1\\10.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema2\\Exam1\\2.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema2\\Exam1\\2.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema2\\Exam1\\3.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema2\\Exam1\\3.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema2\\Exam1\\4.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema2\\Exam1\\4.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema2\\Exam1\\5.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema2\\Exam1\\5.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema2\\Exam1\\6.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema2\\Exam1\\6.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema2\\Exam1\\7.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema2\\Exam1\\7.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema2\\Exam1\\8.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema2\\Exam1\\8.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\Subtema2\\Exam1\\9.wav",
+      "PackagePath": "staticwebassets\\sounds\\Subtema2\\Exam1\\9.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\click.wav",
+      "PackagePath": "staticwebassets\\sounds\\click.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\lose.wav",
+      "PackagePath": "staticwebassets\\sounds\\lose.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\right.wav",
+      "PackagePath": "staticwebassets\\sounds\\right.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\win.wav",
+      "PackagePath": "staticwebassets\\sounds\\win.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\win2.wav",
+      "PackagePath": "staticwebassets\\sounds\\win2.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\wrong.wav",
+      "PackagePath": "staticwebassets\\sounds\\wrong.wav"
+    },
+    {
+      "Id": "C:\\Users\\josue\\Downloads\\proyect_ult\\Educa-main\\Educa\\Educa\\wwwroot\\sounds\\wrong2.wav",
+      "PackagePath": "staticwebassets\\sounds\\wrong2.wav"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Educa.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Educa.props",
+      "PackagePath": "build\\Educa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Educa.props",
+      "PackagePath": "buildMultiTargeting\\Educa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Educa.props",
+      "PackagePath": "buildTransitive\\Educa.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,59 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Educa</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="~/Images/Home/LogoIconEduca.png">
+<meta name="theme-color" content="#2c3f51"><link rel="stylesheet" href="~/css/EducaNinjaStyle.css">
+
+<script src="https://unpkg.com/akar-icons-fonts"></script>
+
+</head>
+<body>
+		<!-- partial:index.partial.html -->
+	<!-- Game canvas -->
+	<canvas id="c"></canvas>
+	
+	<!-- Gameplay HUD -->
+	<div class="hud">
+		<div class="hud__score">
+			<div class="score-lbl"></div>
+			<div class="cube-count-lbl"></div>
+		</div>
+		<div class="pause-btn"><div></div></div>
+		<div class="slowmo">
+			<div class="slowmo__bar"></div>
+		</div>
+	</div>
+	
+	<!-- Menu System -->
+	<div class="menus">
+		<div class="menu menu--main">
+			<h1>EducaNinja</h1>
+			<button type="button" class="play-normal-btn btnesp">JUGAR</button>
+			<button type="button" class="play-casual-btn btnesp">MODO CASUAL</button>
+			<div class="credits">Por Educa</div>
+		</div>
+		<div class="menu menu--pause">
+			<h1>Pausado</h1>
+			<button type="button" class="resume-btn btnesp">REANUDAR</button>
+			<button type="button" class="menu-btn--pause btnesp">MENÚ</button>
+		</div>
+		<div class="menu menu--score">
+			<h1>Perdiste</h1>
+			<h2>Tu puntuación:</h2>
+			<div class="final-score-lbl"></div>
+			<div class="high-score-lbl"></div>
+			<button type="button" class="play-again-btn btnesp">JUGAR DE NUEVO</button>
+			<button type="button" class="menu-btn--score btnesp">MENÚ</button>
+		</div>
+	</div>
+	
+    <a href="/home/index" class="btn-flotante"><i class="ai-arrow-left"></i></a>
+	<!-- partial -->
+	  <script  src="~/js/EducaNinjaScript.js"></script>
+	
+</body>
+</html>

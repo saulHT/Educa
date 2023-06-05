@@ -1,0 +1,402 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+#gradient{
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+h1 {
+    margin: 32px 0;
+    font-family: "Roboto", "Segoe UI", BlinkMacSystemFont, system-ui, -apple-system;
+    font-weight: normal;
+    text-align: center;
+    color: #fff;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.column {
+    flex-basis: calc(50% - 10px);
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+.column3 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  place-items: center;
+  display: grid;
+
+}
+.column:last-child {
+    margin-right: 0;
+}
+.column3 {
+    flex-basis: calc(50% - 10px);
+    margin-bottom: 20px;
+    background-color: #ffffff00;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0);
+    place-items: center;
+    display: grid;
+
+}
+
+.column3:last-child {
+    margin-right: 0;
+}
+
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+input[type="submit"]:hover {
+    background-color: #3e8e41;
+}
+
+.input-container {
+    position: relative;
+    margin: 30px 15px;
+    width: 200px;
+  }
+  
+  .input-container input[type="text"],
+    input[type="email"],
+    input[type="number"],
+    input[type="phone"],
+    input[type="password"]{
+    font-size: 20px;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    padding: 5px 0;
+    background-color: transparent;
+    outline: none;
+  }
+  
+  .input-container .label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #ccc;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    pointer-events: none;
+  }
+  
+  .input-container input[type="text"]:focus ~ .label,
+  .input-container input[type="text"]:valid ~ .label,
+  .input-container input[type="password"]:focus ~ .label,
+  .input-container input[type="password"]:valid ~ .label,
+  .input-container input[type="number"]:focus ~ .label,
+  .input-container input[type="number"]:valid ~ .label,
+  .input-container input[type="phone"]:focus ~ .label,
+  .input-container input[type="phone"]:valid ~ .label,
+  .input-container input[type="email"]:focus ~ .label,
+  .input-container input[type="email"]:valid ~ .label {
+    top: -20px;
+    font-size: 16px;
+    color: #333;
+  }
+
+  .input-container .underline {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    width: 100%;
+    background-color: #333;
+    -webkit-transform: scaleX(0);
+        -ms-transform: scaleX(0);
+            transform: scaleX(0);
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
+  
+  .input-container input[type="text"]:focus ~ .underline,
+  .input-container input[type="text"]:valid ~ .underline,
+  .input-container input[type="password"]:focus ~ .underline,
+  .input-container input[type="password"]:valid ~ .underline,
+  .input-container input[type="number"]:focus ~ .underline,
+  .input-container input[type="number"]:valid ~ .underline,
+  .input-container input[type="phone"]:focus ~ .underline,
+  .input-container input[type="phone"]:valid ~ .underline,
+  .input-container input[type="email"]:focus ~ .underline,
+  .input-container input[type="email"]:valid ~ .underline   {
+    -webkit-transform: scaleX(1);
+        -ms-transform: scaleX(1);
+            transform: scaleX(1);
+  }
+  button {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    background: transparent;
+    padding: 0;
+    font-size: inherit;
+    font-family: inherit;
+   }
+   
+   button.learn-more {
+    width: 12rem;
+    height: auto;
+    right: 10px;
+    float: right;
+    
+    
+   }
+   
+   button.learn-more .circle {
+    -webkit-transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    position: relative;
+    display: block;
+    margin: 0;
+    width: 3rem;
+    height: 3rem;
+    background: #282936;
+    border-radius: 1.625rem;
+   }
+   
+   button.learn-more .circle .icon {
+    -webkit-transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background: #fff;
+   }
+   
+   button.learn-more .circle .icon.arrow {
+    -webkit-transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    left: 0.625rem;
+    width: 1.125rem;
+    height: 0.125rem;
+    background: none;
+   }
+   
+   button.learn-more .circle .icon.arrow::before {
+    position: absolute;
+    content: "";
+    top: -0.29rem;
+    right: 0.0625rem;
+    width: 0.625rem;
+    height: 0.625rem;
+    border-top: 0.125rem solid #fff;
+    border-right: 0.125rem solid #fff;
+    -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+            transform: rotate(45deg);
+   }
+   
+   button.learn-more .button-text {
+    -webkit-transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 0.75rem 0;
+    margin: 0 0 0 1.85rem;
+    color: #282936;
+    font-weight: 700;
+    line-height: 1.6;
+    text-align: center;
+    text-transform: uppercase;
+   }
+   
+   button:hover .circle {
+    width: 100%;
+   }
+   
+   button:hover .circle .icon.arrow {
+    background: #fff;
+    -webkit-transform: translate(1rem, 0);
+        -ms-transform: translate(1rem, 0);
+            transform: translate(1rem, 0);
+   }
+   
+   button:hover .button-text {
+    color: #fff;
+   }
+   .btn {
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    background: #93e2cb;
+    border-radius: 4px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 80px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding: 1rem;
+    width: 180px;
+  }
+ 
+  .loader {
+    width: 160px;
+    height: 185px;
+    position: relative;
+    background: #fff;
+    border-radius: 100px 100px 0 0;
+  }
+  .loader:after {
+    content: "";
+    position: absolute;
+    width: 100px;
+    height: 125px;
+    left: 50%;
+    top: 25px;
+    -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+            transform: translateX(-50%);
+    background-image: radial-gradient(circle, #000 48%, transparent 55%),
+      radial-gradient(circle, #000 48%, transparent 55%),
+      radial-gradient(circle, #fff 30%, transparent 45%),
+      radial-gradient(circle, #000 48%, transparent 51%),
+      linear-gradient(#000 20px, transparent 0),
+      linear-gradient(#cfecf9 60px, transparent 0),
+      radial-gradient(circle, #cfecf9 50%, transparent 51%),
+      radial-gradient(circle, #cfecf9 50%, transparent 51%);
+    background-repeat: no-repeat;
+    background-size: 16px 16px, 16px 16px, 10px 10px, 42px 42px, 12px 3px,
+      50px 25px, 70px 70px, 70px 70px;
+    background-position: 25px 10px, 55px 10px, 36px 44px, 50% 30px, 50% 85px,
+      50% 50px, 50% 22px, 50% 45px;
+    -webkit-animation: faceLift 3s linear infinite alternate;
+            animation: faceLift 3s linear infinite alternate;
+  }
+  .loader:before {
+    content: "";
+    position: absolute;
+    width: 140%;
+    height: 125px;
+    left: -20%;
+    top: 0;
+    background-image: radial-gradient(circle, #fff 48%, transparent 50%),
+      radial-gradient(circle, #fff 48%, transparent 50%);
+    background-repeat: no-repeat;
+    background-size: 65px 65px;
+    background-position: 0px 12px, 145px 12px;
+    -webkit-animation: earLift 3s linear infinite alternate;
+            animation: earLift 3s linear infinite alternate;
+  }
+  
+  @-webkit-keyframes faceLift {
+    0% {
+      -webkit-transform: translateX(-60%);
+              transform: translateX(-60%);
+    }
+    100% {
+      -webkit-transform: translateX(-30%);
+              transform: translateX(-30%);
+    }
+  }
+  
+  @keyframes faceLift {
+    0% {
+      -webkit-transform: translateX(-60%);
+              transform: translateX(-60%);
+    }
+    100% {
+      -webkit-transform: translateX(-30%);
+              transform: translateX(-30%);
+    }
+  }
+  @-webkit-keyframes earLift {
+    0% {
+      -webkit-transform: translateX(10px);
+              transform: translateX(10px);
+    }
+    100% {
+      -webkit-transform: translateX(0px);
+              transform: translateX(0px);
+    }
+  }
+  @keyframes earLift {
+    0% {
+      -webkit-transform: translateX(10px);
+              transform: translateX(10px);
+    }
+    100% {
+      -webkit-transform: translateX(0px);
+              transform: translateX(0px);
+    }
+  }
+  .btn-flotante {
+    font-size: 16px; /* Cambiar el tamaño de la tipografia */
+    text-transform: uppercase; /* Texto en mayusculas */
+    font-weight: bold; /* Fuente en negrita o bold */
+    color: #ffffff; /* Color del texto */
+    border-radius: 5px; /* Borde del boton */
+    letter-spacing: 2px; /* Espacio entre letras */
+    background-color: #282936; /* Color de fondo */
+    padding: 18px 30px; /* Relleno del boton */
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    transition: all 300ms ease 0ms;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    z-index: 99;
+  }
+  .btn-flotante:hover {
+    background-color: #767688; /* Color de fondo al pasar el cursor */
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+    transform: translateY(-7px);
+  }
+  @media only screen and (max-width: 600px) {
+     .btn-flotante {
+      font-size: 14px;
+      padding: 12px 20px;
+      bottom: 20px;
+      right: 20px;
+    }
+  } 
+   
+   @media screen and (max-width: 768px) {
+    .column {
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+}

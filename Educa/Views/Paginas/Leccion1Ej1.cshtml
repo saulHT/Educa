@@ -1,0 +1,110 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educa</title>
+    <link rel="stylesheet" href="~/css/Leccion1Ej1Style.css">
+    <link rel="shortcut icon" href="~/Images/Home/LogoIconEduca.png">
+</head>
+<body>
+    <div class="content">
+        <div id="title" class="title">
+            <div class="title-t">
+                <div class="card">
+                    <p class="title1">1°</p>
+                    <p class="title2">Ejercicio</p>
+                    <img class="svg" src="~/Images/Home/LogoBlack250x150.png" width="105" height="55" alt="">
+                </div>
+            </div>
+            <div class="title-t2">Arrastra el número a la casilla correcta</div>   
+            <div class="loader"></div>           
+        </div>
+        <div id="success-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face">
+              <div class="eye"></div>
+              <div class="eye right2"></div>
+              <div class="mouth happy"></div>
+            </div>
+            <div class="shadow scale"></div>
+            <div class="message"><h1 class="alert">Bien hecho!</h1><p>Puntos: 5</p></div>
+            <button class="button-box" onclick="Next()"><h1 class="green">Continuar</h1></button>
+        </div>
+        <div id="error-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face2">
+                <div class="eye"></div>
+                <div class="eye right2"></div>
+                <div class="mouth sad"></div>
+            </div>
+            <div class="shadow move"></div>
+            <div class="message"><h1 class="alert">Oh no, te confundiste.</h1><p>Puntos: 0</p></div>
+            <button class="button-box" onclick="Next()"><h1 class="red">Continuar</h1></button>
+        </div>
+        <div id="info-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face">
+              <div class="eye"></div>
+              <div class="eye right2"></div>
+              <div class="mouth happy"></div>
+            </div>
+            <div class="shadow scale"></div>
+            <div class="message"><h1 class="alert">Ejercicio 1</div>
+            <button class="button-box" onclick="Inicio()"><h1 class="black">Empezar</h1></button>
+        </div>
+        <div id="container" class="container">
+            <div class="container-1">
+                <div class="img">
+                    <img src="~/Images/Leccion/Leccion1/nueve.png" width="150" height="150" draggable="true" ondragstart="drag(event)" id="nueve">
+                </div>
+                <div class="img-2">
+                    <img  alt="0" src="~/Images/Leccion/Leccion1/cinco.png" width="150" height="150" draggable="true" ondragstart="drag(event)" id="cinco">
+                </div>
+            </div>
+            <div class="container-2">
+                <div class="img" id="0" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    
+                </div>
+                <div class="img-2" id="1" ondrop="drop(event)" ondragover="allowDrop(event)">
+                    
+                </div>
+            </div>
+            <div class="container-3">
+                <div class="img">
+                    <img src="~/Images/Leccion/Leccion1/igual.png" width="100" height="100">
+                </div>
+                <div class="img-2">
+                    <img  alt="0" src="~/Images/Leccion/Leccion1/igual.png" width="100" height="100">
+                </div>
+            </div>
+            <div class="container-4">
+                <div class="img">
+                    <img src="~/Images/Leccion/Leccion1/CincoText.png" width="200" height="200">
+                </div>
+                <div class="img-2">
+                    <img  alt="0" src="~/Images/Leccion/Leccion1/Nuevetext.png" width="200" height="200">
+                </div>
+                
+            </div>
+            
+        </div>
+        <div id="end" class="end">
+            <footer>
+                <p>Hecho con &#128147; por Alumnos de UPN &#9996;</p>
+            </footer>
+        </div>
+    </div>
+    
+    
+    
+    </div>
+    <script src="~/js/Leccion1Ej1Script.js"></script>
+    
+</body>
+</html>

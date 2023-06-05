@@ -1,0 +1,104 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/CustionarioIStyle.css">
+    <!-- FontAweome CDN Link for Icons-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <title>Educa</title>
+</head>
+<body>
+    
+  <!-- botón de inicio de prueba -->
+    
+  <div class="start_btn"><button>Iniciar Cuestionario</button>
+
+
+    
+  </div>
+
+  <!-- Caja de Informacion-->
+  <div class="info_box">
+      <div class="info-title"><span>Algunas sugerencias y datos para este cuestionario</span></div>
+      <div class="info-list">
+          <div class="info">1. Toma el tiempo <span> necesario</span> por cada pregunta.</div>
+          <div class="info">2. Una vez que seleccione su respuesta, no se puede deshacer..</div>
+          <div class="info">3. Recuerda no hay respuesta mala, ni buena.</div>
+          <div class="info">5. Esta encuesta nos ayudara a medir el conocimiento y comprensión.</div>
+          <div class="info">5. Esta encuesta no altera el contenido del aplicativo web.</div>
+      </div>
+      <div class="buttons">
+          <button class="quit">Salir del Cuestionario</button>
+          <button class="restart">Continuar</button>
+      </div>
+      
+  </div>
+
+  <!-- Cuadro de prueba-->
+  <div class="quiz_box">
+      <header>
+          <div class="title">Encuesta Inicial</div>
+          <div class="timer">
+              <div class="time_left_txt">Tiempo restante</div>
+              <div class="timer_sec">180</div>
+          </div>
+          <div class="time_line"></div>
+      </header>
+      <section>
+          <div class="que_text">
+              <!-- Aquí he insertado una pregunta de JavaScript -->
+          </div>
+          <div class="option_list">
+              <!-- Aquí he insertado opciones de JavaScript -->
+          </div>
+      </section>
+
+      <!-- pie de página de la prueba -->
+      <footer>
+          <div class="total_que">
+              <!-- Aquí he insertado Número de conteo de preguntas de JavaScript -->
+          </div>
+          <button class="next_btn">Siguiente</button>
+      </footer>
+  </div>
+
+  <!-- Result Box -->
+  <div class="result_box">
+      <div class="icon">
+
+          <img src="https://i.pinimg.com/originals/7a/34/89/7a34894b7e372fa65017541795be0363.gif" class="avatar" alt="">
+
+
+      </div>
+      <div class="complete_text">¡Has completado la encuesta !</div>
+      <form action="/auth/cuestionarioI" method="POST">
+          <div class="score_text">
+          <input class="answer" type="text" id="a" name="a" disable>
+          <input class="answer" type="text" id="b" name="b" disable>
+          <input class="answer" type="text" id="c" name="c" disable>
+          <input class="answer" type="text" id="d" name="d" disable>
+          <input class="answer" type="text" id="e" name="e" disable>
+          <input class="answer" type="text" id="f" name="f" disable>
+          <input class="answer" type="text" name="user" value="@ViewBag.Nombre" disable>
+      </div>
+      <div class="buttons">
+          <button class="restart second" disabled>Cuestionario de repetición</button>
+          <button class="quit">Siguiente </button>
+      </div>
+    </form>
+      
+  </div>
+
+  <!-- Dentro de este archivo JavaScript, solo he insertado preguntas y opciones. -->
+  <script src="~/js/CuestionarioIGuestionsScript.js"></script>
+
+  <!-- Dentro de este archivo JavaScript he codificado todos los códigos de prueba -->
+  <script src="~/js/CuestionarioIScript.js"></script>
+
+
+    
+</body>
+</html>

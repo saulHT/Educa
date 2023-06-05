@@ -1,0 +1,289 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Educa</title>
+  <link rel="shortcut icon" href="~/Images/Home/LogoIconEduca.png">
+  <link rel='stylesheet' href='https://assets.codepen.io/7773162/swiper-bundle.min.css'>
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css'><link rel="stylesheet" href="~/css/landingstyle.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<!-- HEADER -->
+<header class="header" id="header">
+	<nav class="nav container">
+		<a href="#" class="nav__logo"> Educa </a>
+		<div class="nav__menu" id="nav-menu">
+			<ul class="nav__list">
+				<li class="nav__item">
+					<a href="#home" class="nav__link active-link">Inicio</a>
+				</li>
+				<li class="nav__item">
+					<a href="#about" class="nav__link">Nosotros</a>
+				</li>
+				<li class="nav__item">
+					<a href="#trick" class="nav__link">Beneficios</a>
+				</li>
+				<li class="nav__item">
+					<a href="#new" class="nav__link">Características</a>
+				</li>
+				<a href="/Auth/Login" class="button button--ghost">Ingresar</a>
+			</ul>
+			<div class="nav__close" id="nav-close">
+				<i class='bx bx-x'></i>
+			</div>
+			<img src="https://assets.codepen.io/7773162/nav-img.png" alt="" class="nav__img">
+		</div>
+		<div class="nav__toggle" id="nav-toggle">
+			<i class='bx bx-grid-alt'></i>
+		</div>
+	</nav>
+</header>
+<main class="main">
+	<!-- HOME -->
+	<section class="home container" id="home">
+		<div class="swiper home-swiper">
+			<div class="swiper-wrapper">
+				<!-- HOME SLIDER 1 -->
+				<section class="swiper-slide">
+					<div class="home__content grid">
+						<div class="home__group">
+							<img src="~/Images/Landing/Topic1.png" alt="" class="home__img">
+							<div class="home__indicator"></div>
+							<div class="home__details-img">
+								<h4 class="home__details-title">¿Qué es </h4>
+								<span class="home__details-subtitle">el proyecto?</span>
+							</div>
+						</div>
+						<div class="home__data">
+							<h3 class="pumpkin__subtitle">Aplicativo web educativo</h3>
+							<h1 class="home__title">Brindamos <br> Herramientas <br> Educativas </h1>
+							<p class="home__description">Con el fin de contribuir a un correcto desarrollo general del niño: al permitir que ellos aprendan y tengan práctica en habilidades claves de comunicación.</p>
+							
+						</div>
+					</div>
+				</section>
+
+				<!-- HOME SLIDER 2 -->
+				<section class="swiper-slide">
+					<div class="home__content grid">
+						<div class="home__group">
+							<img src="./Images/Landing/Topic2.png" alt="" class="home__img">
+							<div class="home__indicator"></div>
+							<div class="home__details-img">
+								<h4 class="home__details-title">Objetivos</h4>
+								<span class="home__details-subtitle">Metas</span>
+							</div>
+						</div>
+						<div class="home__data">
+							<h3 class="home__subtitle">Poder brindar una</h3>
+							<h1 class="home__title">Plataforma <br> Interactiva <br> Accesible </h1>
+							<p class="home__description">Para que los niños puedan practicar y aprender temas de comunicación específicos.</p>
+							
+						</div>
+					</div>
+				</section>
+				<!-- HOME SLIDER 3 -->
+				<section class="swiper-slide">
+					<div class="home__content grid">
+						<div class="home__group">
+							<img src="./Images/Landing/Topic3.png" alt="" class="home__img">
+							<div class="home__indicator"></div>
+							<div class="home__details-img">
+								<h4 class="home__details-title">Objetivos</h4>
+								<span class="home__details-subtitle">Metas</span>
+							</div>
+						</div>
+						<div class="home__data">
+							<h3 class="home__subtitle">Fomentar la</h3>
+							<h1 class="home__title">Participación <br> De los padres <br> En la educación </h1>
+							<p class="home__description">De los niños para que puedan apoyarlos en el desarrollo de habilidades de comunicación efectiva.</p>
+							
+						</div>
+					</div>
+				</section>
+			</div>
+			<div class="swiper-pagination"></div>
+		</div>
+	</section>
+	<!-- CATEGORY -->
+	<section class="section category">
+		<h2 class="section__title">¿Qué aprenderá <br> el niño? </h2>
+		<div class="category__container container grid">
+			<div class="category__data">
+				<img src="https://cdn-icons-png.flaticon.com/512/68/68216.png" alt="" class="category__img">
+				<h3 class="category__title">Primero</h3>
+				<p class="category__description">Comprensión de palabras y frases</p>
+			</div>
+			<div class="category__data">
+				<img src="https://cdn-icons-png.flaticon.com/512/1183/1183858.png" alt="" class="category__img">
+				<h3 class="category__title">Segundo</h3>
+				<p class="category__description">Comprensión lectora</p>
+			</div>
+			<div class="category__data">
+				<img src="https://cdn-icons-png.flaticon.com/512/4968/4968864.png" alt="" class="category__img">
+				<h3 class="category__title">Tercero</h3>
+				<p class="category__description">Comprensión auditiva</p>
+			</div>
+		</div>
+	</section>
+	<!-- ABOUT -->
+	<section class="section about" id="about">
+		<div class="about__container container grid">
+			<div class="about__data">
+				<h2 class="section__title about__title">Sobre <br> Nosotros </h2>
+				<p class="about__description">Somos un equipo de estudiantes universitarios apasionados por la educación y la tecnología. Creemos que la educación es una herramienta poderosa para transformar la sociedad, y estamos comprometidos en ofrecer una solución que haga una diferencia en la vida de los niños. Nos esforzamos por crear un ambiente de aprendizaje seguro y positivo, donde los niños puedan crecer y desarrollarse de manera integral.</p>
+				
+			</div>
+			<img src="./Images/Landing/Us.png" alt="" class="about__img">
+		</div>
+	</section>
+	<!-- TRICK OR TREAT -->
+	<section class="section trick" id="trick">
+		<h2 class="section__title">Beneficios</h2>
+		<div class="trick__container container grid">
+			<div class="trick__content">
+				<img src="./Images/Landing/Ben1.png" alt="" class="trick__img">
+				<h3 class="trick__title">Nuevo</h3>
+				<span class="trick__price">vocabulario</span>
+				<span class="trick__subtitle">APRENDIZAJE</span>
+			</div>
+			<div class="trick__content">
+				<img src="./Images/Landing/Ben2.png" alt="" class="trick__img">
+				<h3 class="trick__title">Comprensión</h3>
+				<span class="trick__price">lectora</span>
+				<span class="trick__subtitle">MEJORA</span>
+			</div>
+			<div class="trick__content">
+				<img src="./Images/Landing/Ben3.png" alt="" class="trick__img">
+				<h3 class="trick__title">Estimulación</h3>
+				<span class="trick__price">auditiva y visual</span>
+				<span class="trick__subtitle">IMÁGENES y SONIDOS</span>
+			</div>
+			<div class="trick__content">
+				<img src="./Images/Landing/Ben4.png" alt="" class="trick__img">
+				<h3 class="trick__title">Experiencia</h3>
+				<span class="trick__price">de aprendizaje</span>
+				<span class="trick__subtitle">SEGUIMIENTO</span>
+			</div>
+			<div class="trick__content">
+				<img src="./Images/Landing/Ben5.png" alt="" class="trick__img">
+				<h3 class="trick__title">Hábito</h3>
+				<span class="trick__price"> de lectura</span>
+				<span class="trick__subtitle">FOMENTAR</span>
+			</div>
+			<div class="trick__content">
+				<img src="./Images/Landing/Ben6.png" alt="" class="trick__img">
+				<h3 class="trick__title">Accesibilidad</h3>
+				<span class="trick__price">universal</span>
+				<span class="trick__subtitle">24/7</span>
+			</div>
+		</div>
+	</section>
+	<!-- DISCOUNT -->
+	<section class="section discount">
+		<div class="discount__container container grid">
+			<div class="discount__data">
+				<h2 class="discount__title">Nuestro propósito es que <br> los niños lleguen a tener <br> una base para reforzar su <br> conocimiento ayudándolos <br> a desarrollar habilidades de <br> comunicación efectiva. </h2>
+				
+			</div>
+			<img src="./Images/Landing/ObjetivoLandingPage.png" alt="" class="discount__img">
+		</div>
+	</section>
+	<!-- NEW ARRIVALS -->
+	<section class="section new" id="new">
+		<h2 class="section__title">Características</h2>
+		<div class="new__container container">
+			<div class="swiper new-swiper">
+				<div class="swiper-wrapper">
+					<div class="new__content swiper-slide">
+						
+						<img src="./Images/Landing/Car1.png" alt="" class="new__img">
+						<h3 class="new__title">Actividades</h3>
+						<span class="new__subtitle">...</span>
+						<div class="new__prices">
+							<span class="new__price">Interactivas</span>
+							<span class="new__discount">Tradicionales</span>
+						</div>
+						
+					</div>
+					<div class="new__content swiper-slide">
+						
+						<img src="./Images/Landing/Car2.png" alt="" class="new__img">
+						<h3 class="new__title">Seguimiento</h3>
+						<span class="new__subtitle">De cada Lección</span>
+						<div class="new__prices">
+							<span class="new__price">Visual</span>
+							
+						</div>
+						
+					</div>
+					<div class="new__content swiper-slide">
+						
+						<img src="./Images/Landing/Car3.png" alt="" class="new__img">
+						<h3 class="new__title">Reportes</h3>
+						<span class="new__subtitle">De cada Lección</span>
+						<div class="new__prices">
+							<span class="new__price">Desempeño</span>
+							
+						</div>
+						
+					</div>
+					<div class="new__content swiper-slide">
+						
+						<img src="./Images/Landing/Car4.png" alt="" class="new__img">
+						<h3 class="new__title">Interfaz</h3>
+						<span class="new__subtitle">Atractiva e intuitiva</span>
+						<div class="new__prices">
+							<span class="new__price">Primer grado</span>
+							
+						</div>
+						
+					</div>
+					<div class="new__content swiper-slide">
+						
+						<img src="./Images/Landing/Car5.png" alt="" class="new__img">
+						<h3 class="new__title">Lecciones</h3>
+						<span class="new__subtitle">8 cursos</span>
+						<div class="new__prices">
+							<span class="new__price">Interactiva</span>
+							<span class="new__discount">Tradicional</span>
+						</div>
+						
+					</div>
+					<div class="new__content swiper-slide">
+						
+						<img src="./Images/Landing/Car6.png" alt="" class="new__img">
+						<h3 class="new__title">Datos</h3>
+						<span class="new__subtitle">Seguro y privado</span>
+						<div class="new__prices">
+							<span class="new__price">Anónimo</span>
+							<span class="new__discount">Público</span>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- OUR NEWSLETTER -->
+	<section class="section newsletter">
+		<div class="newsletter__container container">
+			<h2 class="section__title">Alumnos de la UPN</h2>
+			<p class="newsletter__description"> 2023 - CAPSTONE PROJECT </p>
+			
+		</div>
+	</section>
+</main>
+<!-- SCROLL UP -->
+<a href="#" class="scrollup" id="scroll-up">
+	<i class='bx bx-up-arrow-alt scrollup__icon'></i>
+</a>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.2/swiper-bundle.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/4.0.9/scrollreveal.min.js'></script><script  src="~/js/LandindScript.js"></script>
+
+</body>
+</html>

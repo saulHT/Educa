@@ -1,0 +1,122 @@
+﻿@{Layout = null;}
+<link rel="shortcut icon" href="~/Images/Home/LogoIconEduca.png">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educa</title>
+    <link rel="stylesheet" href="~/css/Leccion3Ej1.css">
+    <link rel="shortcut icon" href="~/Images/Home/LogoIconEduca.png">
+</head>
+<body>
+    <div class="content">
+        <div id="title" class="title">
+            <div class="title-t">
+                <div class="card">
+                    <p class="title1">1°</p>
+                    <p class="title2">Ejercicio</p>
+                    <img class="svg" src="~/Images/Home/LogoBlack250x150.png" width="105" height="55" alt="">
+                </div>
+            </div>
+            <div class="title-t2">Arrastra la sílaba para completar las palabras</div>   
+            <div class="loader"></div>           
+        </div>
+        <div id="success-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face">
+              <div class="eye"></div>
+              <div class="eye right2"></div>
+              <div class="mouth happy"></div>
+            </div>
+            <div class="shadow scale"></div>
+            <div class="message"><h1 class="alert">Bien hecho!</h1><p id="puntos">Puntos: 5</p></div>
+            <button class="button-box" onclick="Next()"><h1 class="green">Continuar</h1></button>
+        </div>
+        <div id="error-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face2">
+                <div class="eye"></div>
+                <div class="eye right2"></div>
+                <div class="mouth sad"></div>
+            </div>
+            <div class="shadow move"></div>
+            <div class="message"><h1 class="alert">Oh no</h1><p id="puntos2">Puntos: 0</p></div>
+            <button class="button-box" onclick="Next()"><h1 class="red">Continuar</h1></button>
+        </div>
+        <div id="info-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face">
+              <div class="eye"></div>
+              <div class="eye right2"></div>
+              <div class="mouth happy"></div>
+            </div>
+            <div class="shadow scale"></div>
+            <div class="message"><h1 class="alert">Ejercicio 1</div>
+            <button class="button-box" onclick="Inicio()"><h1 class="black">Empezar</h1></button>
+        </div>
+        <div id="container" class="container">
+            <div id="container-1" class="container-1">
+                <!--Primera palabra -->
+                <div class="letter-u1" id="0" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                <div class="letter-n1">n</div>
+                <div class="letter-a1">a</div>
+                <!--Segunda palabra -->
+                <div class="letter-e2" id="1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                <div class="letter-t2">t</div>
+                <div class="letter-r2">r</div>
+                <div class="letter-e2-2">e</div>
+                <div class="letter-a2" id="2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                <!--Tercera palabra -->
+                <div class="letter-i3">i</div>
+                <div class="letter-r3" id="3" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+                <!--Cuarta palabra -->
+                <div class="letter-o4">o</div>
+                <div class="letter-l4" id="4" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+            </div>
+            <div class="container-2">
+                <div class="img2-1">
+                    <img src="~/Images/Leccion/Leccion2/Pag2/luna.png" width="100" height="100">
+                </div>
+                <div class="img2-2">
+                    <img src="~/Images/Leccion/Leccion2/Pag2/estrella.png" width="100" height="100">
+                </div>
+                <div class="img2-3">
+                    <img src="~/Images/Leccion/Leccion2/Pag2/ira.png" width="100" height="100">
+                </div>
+                <div class="img2-4">
+                    <img src="~/Images/Leccion/Leccion2/Pag2/ola.png" width="100" height="100">
+                </div>
+            </div>
+            <div class="container-3">
+                <div class="img">
+                    <img src="~/Images/Leccion/Leccion3/Ej1/llaEj1.png" width="96" height="48" draggable="true" ondragstart="drag(event)" id="a">
+                </div>
+                <div class="img">
+                    <img src="~/Images/Leccion/Leccion3/Ej1/esEj1.png" width="96" height="48" draggable="true" ondragstart="drag(event)" id="e">
+                </div>
+                <div class="img">
+                    <img src="~/Images/Leccion/Leccion3/Ej1/raEj1.png" width="96" height="48" draggable="true" ondragstart="drag(event)" id="i">
+                </div>
+                <div class="img">
+                    <img src="~/Images/Leccion/Leccion3/Ej1/laEj1.png" width="96" height="48" draggable="true" ondragstart="drag(event)" id="o">
+                </div>
+                <div class="img">
+                    <img src="~/Images/Leccion/Leccion3/Ej1/luEj1.png" width="96" height="48" draggable="true" ondragstart="drag(event)" id="u">
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+    <footer>
+        <p>Hecho con &#128147; por Alumnos de UPN &#9996;</p>
+    </footer>
+    <script src="~/js/Leccion3Ej1Script.js"></script>
+    
+</body>
+</html>

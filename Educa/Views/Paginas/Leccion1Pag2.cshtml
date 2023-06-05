@@ -1,0 +1,195 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educa</title>
+    <link rel="stylesheet" href="~/css/Leccion1Pag2Style.css">
+    <link rel="shortcut icon" href="~/Images/Home/LogoIconEduca.png">
+</head>
+<body>
+    <div class="content">
+        <div id="title" class="title">
+            <div class="title-t">Los primeros 5</div>
+            <div class="loading">
+                <div class="cube">
+                  <div class="side front"></div>
+                  <div class="side back"></div>
+                  <div class="side top"></div>
+                  <div class="side bottom"></div>
+                  <div class="side left"></div>
+                  <div class="side right"></div>
+                </div>
+            </div>                
+        </div>
+        
+        <div id="success-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face">
+              <div class="eye"></div>
+              <div class="eye right2"></div>
+              <div class="mouth happy"></div>
+            </div>
+            <div class="shadow scale"></div>
+            <div class="message"><h1 class="alert">Listo!</h1><p>Vamos a aprender.</p></div>
+            <button class="button-box" onclick="Inicio()"><h1 class="green">Continuar</h1></button>
+        </div>
+        <div id="error-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face2">
+                <div class="eye"></div>
+                <div class="eye right2"></div>
+                <div class="mouth sad"></div>
+            </div>
+            <div class="shadow move"></div>
+            <div class="message"><h1 class="alert">Oh no, no puedes avanzar.</h1><p>Escucha todos!</div>
+            <button class="button-box" onclick="Error()"><h1 class="red">Continuar</h1></button>
+        </div>
+       
+        <div id="container" class="container">
+            <div class="container-1">
+                <div class="img">
+                    <div class="card">
+                        <div class="card"><img src="~/Images/Leccion/Leccion1/CeroPelota.png" width="130" height="130"></div>
+                    </div>
+                </div>
+                <div class="img-2">
+                    <img  alt="0" src="~/Images/Leccion/Leccion1/cero.png" width="150" height="150">
+                </div>
+                <div class="button-cont">
+                    <div class="container-button2" onclick="Cero()">
+                        <div class="hover bt-1"></div>
+                        <div class="hover bt-2"></div>
+                        <div class="hover bt-3"></div>
+                        <div class="hover bt-4"></div>
+                        <div class="hover bt-5"></div>
+                        <div class="hover bt-6"></div>
+                        <button class="son" ></button>
+                      </div>
+                </div>
+            </div>
+            <div class="container-2">
+                <div class="img">
+                    <div class="card"><img src="~/Images/Leccion/Leccion1/UnoPelota.png" width="130" height="130"></div>
+                </div>
+                <div class="img-2">
+                    <img  alt="0" src="~/Images/Leccion/Leccion1/uno.png" width="150" height="150">
+                </div>
+                <div class="button-cont">
+                    <div class="container-button2" onclick="Uno()">
+                        <div class="hover bt-1"></div>
+                        <div class="hover bt-2"></div>
+                        <div class="hover bt-3"></div>
+                        <div class="hover bt-4"></div>
+                        <div class="hover bt-5"></div>
+                        <div class="hover bt-6"></div>
+                        <button class="son" ></button>
+                      </div>
+                </div>
+            </div>
+            <div class="container-3">
+                <div class="img">
+                    <div class="card"><img src="~/Images/Leccion/Leccion1/DosPelota.png" width="130" height="130"></div>
+                </div>
+                <div class="img-2">
+                    <img  alt="0" src="~/Images/Leccion/Leccion1/dos.png" width="150" height="150">
+                </div>
+                <div class="button-cont">
+                    <div class="container-button2" onclick="Dos()">
+                        <div class="hover bt-1"></div>
+                        <div class="hover bt-2"></div>
+                        <div class="hover bt-3"></div>
+                        <div class="hover bt-4"></div>
+                        <div class="hover bt-5"></div>
+                        <div class="hover bt-6"></div>
+                        <button class="son" ></button>
+                      </div>
+                </div>
+            </div>
+            <div class="container-4">
+                <div class="img">
+                    <div class="card"><img src="~/Images/Leccion/Leccion1/TresPelota.png" width="130" height="130"></div>
+                </div>
+                <div class="img-2">
+                    <img  alt="0" src="~/Images/Leccion/Leccion1/tres.png" width="150" height="150">
+                </div>
+                <div class="button-cont">
+                    <div class="container-button2" onclick="Tres()">
+                        <div class="hover bt-1"></div>
+                        <div class="hover bt-2"></div>
+                        <div class="hover bt-3"></div>
+                        <div class="hover bt-4"></div>
+                        <div class="hover bt-5"></div>
+                        <div class="hover bt-6"></div>
+                        <button class="son" ></button>
+                      </div>
+                </div>
+            </div>
+            <div class="container-5">
+                <div class="img">
+                    <div class="card"><img src="~/Images/Leccion/Leccion1/CuatroPelota.png" width="130" height="130"></div>
+                </div>
+                <div class="img-2">
+                    <img  alt="0" src="~/Images/Leccion/Leccion1/cuatro.png" width="150" height="150">
+                </div>
+                <div class="button-cont">
+                    <div class="container-button2" onclick="Cuatro()">
+                        <div class="hover bt-1"></div>
+                        <div class="hover bt-2"></div>
+                        <div class="hover bt-3"></div>
+                        <div class="hover bt-4"></div>
+                        <div class="hover bt-5"></div>
+                        <div class="hover bt-6"></div>
+                        <button class="son" ></button>
+                      </div>
+                </div>
+            </div>
+        </div>
+        <div id="end" onclick="Siguiente()" class="end">
+            <div class="container-button">
+                <button  type="button" class="btn cube2 cube2-hover">
+                    <div class="bg-top">
+                    <div class="bg-inner"></div>
+                    </div>
+                    <div class="bg-right">
+                    <div class="bg-inner"></div>
+                    </div>
+                    <div class="bg_i">
+                    <div class="bg-inner"></div>
+                    </div>
+                    <div class="text">Continuar</div>
+                  </button>
+            </div>
+        </div>
+    </div>
+    <audio id="MusicPag1" >
+        <source src="~/sounds/Leccion1/Leccion1Pag2Intro.wav" type="audio/wav">
+    </audio>
+    <audio id="MusicError" >
+        <source src="~/sounds/Leccion1/errorpag1.wav" type="audio/wav">
+    </audio>
+    <audio id="Musicero" >
+        <source src="~/sounds/Leccion1/cero.wav" type="audio/wav">
+    </audio>
+    <audio id="Musicuno" >
+        <source src="~/sounds/Leccion1/uno.wav" type="audio/wav">
+    </audio>
+    <audio id="Musicdos" >
+        <source src="~/sounds/Leccion1/dos.wav" type="audio/wav">
+    </audio>
+    <audio id="Musictres" >
+        <source src="~/sounds/Leccion1/tres.wav" type="audio/wav">
+    </audio>
+    <audio id="Musicuatro" >
+        <source src="~/sounds/Leccion1/cuatro.wav" type="audio/wav">
+    </audio>
+    
+    </div>
+     <script src="~/js/Leccion1Pag2Script.js"></script>
+
+</body>
+</html>

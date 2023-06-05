@@ -1,0 +1,257 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educa</title>
+    <link rel="stylesheet" href="~/css/Leccion4Pag3Style.css">
+    <link rel="shortcut icon" href="~/Images/Home/LogoIconEduca.png">
+</head>
+<body>
+    <div class="content" id="content">
+        <div id="title" class="title">
+            <div class="animation">¿CUANDO DEBEMOS USAR MAYÚSCULAS?</div>
+                   
+        </div>
+        <div id="success-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face">
+              <div class="eye"></div>
+              <div class="eye right2"></div>
+              <div class="mouth happy"></div>
+            </div>
+            <div class="shadow scale"></div>
+            <div class="message"><h1 class="alert">Listo ¿?</h1><p>Vamos a aprender.</div>
+            <button class="button-box" onclick="Inicio()"><h1 class="green">Empezar</h1></button>
+        </div>
+        <div id="error-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face2">
+                <div class="eye"></div>
+                <div class="eye right2"></div>
+                <div class="mouth sad"></div>
+            </div>
+            <div class="shadow move"></div>
+            <div class="message"><h1 class="alert">Oh no</h1><p>Escucha todos!</div>
+            <button class="button-box" onclick="Error()"><h1 class="red">Continuar</h1></button>
+        </div>
+        <div id="container" class="container">
+            <div id="container-1" class="container-1">
+                <div class="text-Cont">
+                    <div class="plan">
+                        <div class="inner">
+                            <span class="pricing">
+                                <span>
+                                   A &#127775; B
+                                </span>
+                            </span>
+                            <p class="title">Nombres propios</p>
+                            <p class="info">La forma más común de uso de mayúsculas se da en los nombres propios, es decir, los nombres de personas o lugares, empresas o algo personal.</p>
+                            <ul class="features">
+                                <li>
+                                    <span class="icon">
+                                        <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                            <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                        </svg>
+                                    </span>
+                                    <span><strong>Jorge</strong></span>
+                                </li>
+                                <li>
+                                    <span class="icon">
+                                        <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                            <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                        </svg>
+                                    </span>
+                                    <span><strong>España</strong></span>
+                                </li>
+                                <li>
+                                    <span class="iconW">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M13.854 2.146a.5.5 0 0 1 0 .708l-11 11a.5.5 0 0 1-.708-.708l11-11a.5.5 0 0 1 .708 0Z"/> <path fill-rule="evenodd" d="M2.146 2.146a.5.5 0 0 0 0 .708l11 11a.5.5 0 0 0 .708-.708l-11-11a.5.5 0 0 0-.708 0Z"/> </svg>
+                                    </span>
+                                    <span><strong>Perro</strong></span>
+                                </li>
+                                
+                                <li>
+                                    <span class="iconW">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M13.854 2.146a.5.5 0 0 1 0 .708l-11 11a.5.5 0 0 1-.708-.708l11-11a.5.5 0 0 1 .708 0Z"/> <path fill-rule="evenodd" d="M2.146 2.146a.5.5 0 0 0 0 .708l11 11a.5.5 0 0 0 .708-.708l-11-11a.5.5 0 0 0-.708 0Z"/> </svg>
+                                    </span>
+                                    <span><strong>Elefante</strong></span>
+                                </li>
+                            </ul>
+                            <div class="action">
+                            <a class="button" href="#" onclick="Sound(0)">
+                                Escuchar
+                            </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="input-cont"></div>
+            </div>
+            <div id="container-2" class="container-2">
+                <div class="text-Cont">
+                    <div class="plan">
+                        <div class="inner">
+                            <span class="pricing">
+                                <span>
+                                   A &#127775; B
+                                </span>
+                            </span>
+                            <p class="title">Después de un punto</p>
+                            <p class="info">Después de un punto, ya sea un punto y aparte o un punto y seguido, la primera letra que se usa en la primera palabra debe ser mayúscula, sin importar qué tipo de palabra sea. Esto se utiliza… ¿Has visto? Acabamos de hacerlo después de un punto y seguido y casi no te das cuenta.</p>
+                            <ul class="features">
+                                <li>
+                                    <span class="icon">
+                                        <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                            <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                        </svg>
+                                    </span>
+                                    <span>Lucía siguió su camino <strong>…Y</strong> se fue.</span>
+                                </li>
+                                <li>
+                                    <span class="icon">
+                                        <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                            <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                        </svg>
+                                    </span>
+                                    <span>¿A dónde fue Laura? <strong>E</strong>lla fue a la cafetería.</span>
+                                </li>
+                                <li>
+                                    <span class="icon">
+                                        <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                            <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                        </svg>
+                                    </span>
+                                    <span>¿Y quién es ese hombre?, <strong>é</strong>l es mi hermano.</span>
+                                </li>
+                                
+                            </ul>
+                            <div class="action">
+                            <a class="button" href="#" onclick="Sound(1)">
+                                Escuchar
+                            </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <div id="container-3" class="container-3">
+                <div class="text-Cont">
+                    <div class="plan">
+                        <div class="inner">
+                            <span class="pricing">
+                                <span>
+                                    A &#127775; B
+                                </span>
+                            </span>
+                            <p class="title">Siglas</p>
+                            <p class="info">Las siglas son el conjunto de las primeras letras de una oración o nombre largo que sirve para abreviar. Como cuando decimos ONU en vez de ‘Organización de las Naciones Unidas’ y hacer así la oración más corta.</p>
+                            <ul class="features">
+                                <li>
+                                    <span class="icon">
+                                        <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                            <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                        </svg>
+                                    </span>
+                                    <span>FedEx</span>
+                                </li>
+                                <li>
+                                    <span class="icon">
+                                        <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                            <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                        </svg>
+                                    </span>
+                                    <span>URCDP</span>
+                                </li>
+                                <li>
+                                    <span class="iconW">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-lg" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M13.854 2.146a.5.5 0 0 1 0 .708l-11 11a.5.5 0 0 1-.708-.708l11-11a.5.5 0 0 1 .708 0Z"/> <path fill-rule="evenodd" d="M2.146 2.146a.5.5 0 0 0 0 .708l11 11a.5.5 0 0 0 .708-.708l-11-11a.5.5 0 0 0-.708 0Z"/> </svg>
+                                    </span>
+                                    <span>Pymes</span>
+                                </li>
+                            </ul>
+                            <div class="action">
+                            <a class="button" href="#" onclick="Sound(2)">
+                                Escuchar
+                            </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <div id="container-4" class="container-4">
+                <div class="text-Cont">
+                    <div class="plan">
+                        <div class="inner">
+                            <span class="pricing">
+                                <span>
+                                    A &#127775; B
+                                </span>
+                            </span>
+                            <p class="title">Al iniciar una oración</p>
+                            <p class="info">Al escribir siempre arrancamos los párrafos y oraciones con letras mayúsculas, pues no solo es estéticamente más agradable sino que también es lo correcto. Puedes abrir cualquier libro que tengas y siempre verás que todos los párrafos comienzan con una mayúscula.</p>
+                            <ul class="features">
+                                <li>
+                                    <span class="icon">
+                                        <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                            <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                        </svg>
+                                    </span>
+                                    <span><strong>A</strong> los alumnos de la escuela les gusta la guitarra.</span>
+                                </li>
+                                <li>
+                                    <span class="icon">
+                                        <svg height="24" width="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 0h24v24H0z" fill="none"></path>
+                                            <path fill="currentColor" d="M10 15.172l9.192-9.193 1.415 1.414L10 18l-6.364-6.364 1.414-1.414z"></path>
+                                        </svg>
+                                    </span>
+                                    <span><strong>L</strong>as costas de nuestro país son muy visitadas. </span>
+                                </li>
+                                
+                            </ul>
+                            <div class="action">
+                            <a class="button" href="#" onclick="Sound(3)">
+                                Escuchar
+                            </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+        <center><button id="end" type="button" onclick="Next()" class="btn cube cube-hover">
+            <div class="bg-top">
+            <div class="bg-inner"></div>
+            </div>
+            <div class="bg-right">
+            <div class="bg-inner"></div>
+            </div>
+            <div class="bg_i">
+            <div class="bg-inner"></div>
+            </div>
+            <div class="text">Continuar</div>
+          </button></center>
+    </div>
+    
+    <footer>
+        <center><p>Hecho con &#128147; por Alumnos de UPN &#9996;</p></center>
+    </footer>
+    <script src="~/js/Leccion4Pag3Script.js"></script>
+</body>
+</html>

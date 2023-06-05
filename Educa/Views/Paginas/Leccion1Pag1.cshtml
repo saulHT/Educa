@@ -1,0 +1,73 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educa</title>
+
+    <link rel="stylesheet" href="~/css/Leccion1Pag1Style.css">
+    <link rel="shortcut icon" href="~/Images/Home/LogoIconEduca.png">
+</head>
+<body>
+    <div class="content">
+        <div id="title" class="title">
+            <div class="loader"></div>
+            <div class="title-t">Números</div>
+        </div>
+        <div id="success-box">
+            <div class="dot"></div>
+            <div class="dot two"></div>
+            <div class="face">
+              <div class="eye"></div>
+              <div class="eye right"></div>
+              <div class="mouth happy"></div>
+            </div>
+            <div class="shadow scale"></div>
+            <div class="message"><h1 class="alert">Bienvenido!</h1><p>Vamos por tu primera lección.</p></div>
+            <button class="button-box" onclick="Inicio()"><h1 class="green">Continuar</h1></button>
+          </div>
+        <div id="container" class="container">
+            <div class="container-img">
+                <div class="card2">
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="card-inner">
+                        <img src="~/Images/Leccion/Leccion1/bloques-numericos.png" alt="">
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="container-right">
+                <div class="container-text">
+                    <div class="card">
+                        <div class="bg"></div>
+                        <div class="blob"></div>
+                        <p>Los números nos ayudan a contar y a medir cosas. Imagina que no tuviéramos números. Sería difícil saber cuántas galletas tienes o cuántos amigos están en tu clase. ¡Los números nos ayudan a responder esas preguntas!</p>
+                    </div>
+                </div>
+                <div class="container-button">
+                    <button type="button" onclick="Siguiente()" class="btn cube cube-hover">
+                        <div class="bg-top">
+                        <div class="bg-inner"></div>
+                        </div>
+                        <div class="bg-right">
+                        <div class="bg-inner"></div>
+                        </div>
+                        <div class="bg_i">
+                        <div class="bg-inner"></div>
+                        </div>
+                        <div class="text">Continuar</div>
+                      </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <audio id="MusicIntro" >
+        <source src="~/sounds/Leccion1/Leccion1Intro.wav" type="audio/wav">
+    </audio>
+    <script src="~/js/Leccion1Pag1Script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+﻿@{Layout = null;}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educa</title>
+    <link rel="stylesheet" href="~/css/SignInStyle.css">
+    <script src="https://unpkg.com/akar-icons-fonts"></script>
+</head>
+<body >
+    <html>
+        <head>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+        </head>
+        <body>
+            <div id="gradient" />
+        </body>
+    </html>
+    <div class="container">
+        <h1>👋 Llena los datos con ayuda de una persona mayor</h1>
+        <form action="/auth/signIn" method="POST" onclick="PlayAudio()">
+            <div class="row">
+                <div class="column">
+                    <p class="title">Datos del niño</p>
+                    <div class="input-container">
+                        <input type="text" id="input" name="NombreUsuario" required="" >
+                        <label for="input" class="label">Nombre</label>
+                        <div class="underline"></div>
+                    </div>
+                    <div class="input-container">
+                        <input type="number" id="age" name="Age"  required="">
+                        <label for="input" class="label">Edad</label>
+                        <div class="underline"></div>
+                    </div>
+                    <div class="input-container">
+                        <input type="text" id="input" name="Escuela"required="">
+                        <label for="input" class="label">Institución Educativa</label>
+                        <div class="underline"></div>
+                    </div>
+                    <div class="input-container">
+                        <input type="text" id="input" name="User" required="" >
+                        <label for="input" class="label">Usuario</label>
+                        <div class="underline"></div>
+                    </div>
+                    <div class="input-container">
+                        <input type="password" id="input" name="password" required="" >
+                        <label for="input" class="label">Contraseña</label>
+                        <div class="underline"></div>
+                    </div>
+                </div>
+                <div class="column">
+                    <p class="title">Datos del tutor</p>
+                    <div class="input-container">
+                        <input type="text" id="input" name="NombreTutor"required="">
+                        <label for="input" class="label">Nombre</label>
+                        <div class="underline"></div>
+                    </div>
+                    <div class="input-container">
+                        <input type="email" id="input" name="EmailTutor" required="">
+                        <label for="input" class="label">Correo electrónico</label>
+                        <div class="underline"></div>
+                    </div>
+                    <div class="input-container">
+                        <input type="text" id="input" name="CelularTutor" required="">
+                        <label for="input" class="label">Celular</label>
+                        <div class="underline"></div>
+                    </div>
+                    <button class="learn-more">
+                        <span class="circle" aria-hidden="true">
+                        <span class="icon arrow"></span>
+                        </span>
+                        <span class="button-text">Registrarse</span>
+                    </button>
+                </div>
+            </div>
+        </form>
+        <div class="column3">
+            <div class="loader"></div>
+        </div>
+        
+    </div>
+    <audio id="MusicForm" >
+        <source src="~/sounds/Registro.wav" type="audio/wav">
+    </audio>
+    <a href="/auth/login" class="btn-flotante"><i class="ai-arrow-left"></i></a>
+    <script  src="~/js/ForgotScript.js"></script>
+    <script>
+        var intentos = 0
+        function PlayAudio(){
+            var audio = document.getElementById("MusicForm");
+            if (intentos == 0) {
+                intentos = intentos + 1;
+                audio.play();
+                
+            }
+            
+        }
+    </script>
+</body>
+</html>

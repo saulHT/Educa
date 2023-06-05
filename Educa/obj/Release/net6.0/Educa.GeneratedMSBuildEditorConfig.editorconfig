@@ -1,0 +1,369 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Educa
+build_property.RootNamespace = Educa
+build_property.ProjectDir = C:\Users\josue\Downloads\CAPTONE\proyect_ult\Educa-main\Educa\Educa\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\josue\Downloads\CAPTONE\proyect_ult\Educa-main\Educa\Educa
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Auth/AvatarUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxBdmF0YXJVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Auth/CuestionarioI.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxDdWVzdGlvbmFyaW9JLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Auth/DatosUsuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxEYXRvc1VzdWFyaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Auth/Forgot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxGb3Jnb3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Auth/Forgot2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxGb3Jnb3QyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Auth/Forgot3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxGb3Jnb3QzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Auth/Landing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMYW5kaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Auth/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Auth/signIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxzaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Historia/ElPollitoAventurero.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFcRWxQb2xsaXRvQXZlbnR1cmVyby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Historia/HistoriaIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFcSGlzdG9yaWFJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Historia/PreHistoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFcUHJlSGlzdG9yaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Historia/Tomas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFcVG9tYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Home/EducaNinja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZHVjYU5pbmphLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Home/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Home/Lecciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMZWNjaW9uZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Home/NotasUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOb3Rhc1VzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Home/PreIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmVJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Home/SubTemas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJUZW1hcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Home/Temas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZW1hcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion1Ej1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uMUVqMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion1Ej2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uMUVqMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion1Ej3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uMUVqMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion1Pag1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uMVBhZzEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion1Pag2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uMVBhZzIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion1Pag3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uMVBhZzMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion2Ej1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uMkVqMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion2Pag1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uMlBhZzEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion2Pag2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uMlBhZzIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Ej1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM0VqMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Ej2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM0VqMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Ej3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM0VqMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Ej4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM0VqNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Ej5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM0VqNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Ej6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM0VqNi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag10.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzEwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag11.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzExLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag12.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzEyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag13.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzEzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag14.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzE0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag15.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzE1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag16.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzE2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag17.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzE3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag18.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzE4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag19.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzE5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag20.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzIwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag21.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzIxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag22.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzIyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag23.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzIzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag24.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzI0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag25.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzI1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag26.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzI2LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag27.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzI3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag28.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzI4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag29.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzI5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag30.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzMwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag31.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzMxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion3Pag9.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uM1BhZzkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion4Ej1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uNEVqMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion4Ej2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uNEVqMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion4Pag1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uNFBhZzEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion4Pag2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uNFBhZzIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion4Pag3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uNFBhZzMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion5Ej1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uNUVqMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion5Ej2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uNUVqMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion5Pag1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uNVBhZzEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion5Pag2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uNVBhZzIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion6Ej1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uNkVqMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Leccion6Pag1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xMZWNjaW9uNlBhZzEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Subtema1Exam1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xTdWJ0ZW1hMUV4YW0xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Subtema1Exam2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xTdWJ0ZW1hMUV4YW0yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Paginas/Subtema2Exam1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xTdWJ0ZW1hMkV4YW0xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josue/Downloads/CAPTONE/proyect_ult/Educa-main/Educa/Educa/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9emvasxfty
